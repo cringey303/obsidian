@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "50318f50444395ed",
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5717a83103378c7a",
+  "active": "25b2393ca9ce50e9",
   "lastOpenFiles": [
     "EECS 510/union rules.md",
     "EECS/27JAN26.md",
