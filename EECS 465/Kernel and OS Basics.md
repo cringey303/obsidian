@@ -17,4 +17,8 @@ Clients vs Servers
 	- web content
 	- ssh
 	- clonezilla images from NFS (2003 Eaton)
-	- 
+
+Interacting in a Shell
+- execute commands by name
+- eg, let's use Nmap:
+	- Nmap is a port scanner
