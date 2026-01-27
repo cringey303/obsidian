@@ -107,12 +107,14 @@
             "id": "9c37736dc3d4dc25",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md"
+                "file": "EECS 447/Design Principles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-27 13.31.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Design Principles"
             }
           }
         ],
@@ -189,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
+                "file": "EECS 447/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-01-27 13.31.58.excalidraw"
+              "title": "Backlinks for Design Principles"
             }
           },
           {
@@ -208,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
+                "file": "EECS 447/Design Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-01-27 13.31.58.excalidraw"
+              "title": "Outgoing links from Design Principles"
             }
           },
           {
@@ -251,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
+                "file": "EECS 447/Design Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-01-27 13.31.58.excalidraw"
+              "title": "Outline of Design Principles"
             }
           },
           {
@@ -292,8 +294,9 @@
   },
   "active": "9c37736dc3d4dc25",
   "lastOpenFiles": [
+    "EECS 447/Relationships.md",
+    "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Design Principles.md",
-    "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
     "Excalidraw",
     "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
     "Ink/Drawing",
@@ -307,7 +310,6 @@
     "EECS 447/DBMS History.md",
     "EECS 447/Course Materials.md",
     "EECS 447/Subclasses.md",
-    "EECS 447/Relationships.md",
     "Screenshot 2026-01-27 at 13.03.05.png",
     "Untitled",
     "Screenshot 2026-01-27 at 13.06.58.png",
