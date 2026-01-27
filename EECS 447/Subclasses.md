@@ -1,0 +1,8 @@
+- Sub-classes
+	- subclass = special case = fewer entities = more properties
+	- example: engineers are a type of employee
+		- every engineer is an employee, not every employee is an engineer
+		- in addition to all employees, engineers have special 'clearence' class
+		- use triangle with 'is a' triangle
+			- top points to superclass
+	- only the root entity set has a key, which serves for all entities in the hierarchy![[Screenshot 2026-01-27 at 13.03.05.png]]

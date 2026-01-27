@@ -1,0 +1,4 @@
+- Avoid redundancy
+	- saying the same thing in multiple different ways
+	- wastes space and **encourages inconsistency**
+	- 
