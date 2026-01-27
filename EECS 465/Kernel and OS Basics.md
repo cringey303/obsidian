@@ -12,4 +12,9 @@ Local Shell vs Remote Shells
 	- ssh
 
 Clients vs Servers
-- One of the mo
+- One of the most common paradigms in computer systems/networking
+- A **servers**, or a system with special resources, computational power, access, etc. provides access to those resources/capabilities, to **clients**
+	- web content
+	- ssh
+	- clonezilla images from NFS (2003 Eaton)
+	- 
