@@ -107,14 +107,12 @@
             "id": "9c37736dc3d4dc25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EECS 447/Design Principles.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Design Principles"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-27 13.31.58.excalidraw"
             }
           }
         ],
@@ -191,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EECS 447/Design Principles.md",
+                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Principles"
+              "title": "Backlinks for Drawing 2026-01-27 13.31.58.excalidraw"
             }
           },
           {
@@ -210,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EECS 447/Design Principles.md",
+                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design Principles"
+              "title": "Outgoing links from Drawing 2026-01-27 13.31.58.excalidraw"
             }
           },
           {
@@ -253,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 447/Design Principles.md",
+                "file": "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Principles"
+              "title": "Outline of Drawing 2026-01-27 13.31.58.excalidraw"
             }
           },
           {
@@ -288,11 +286,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9c37736dc3d4dc25",
   "lastOpenFiles": [
+    "EECS 447/Design Principles.md",
+    "Excalidraw/Drawing 2026-01-27 13.31.58.excalidraw.md",
+    "Excalidraw",
     "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
     "Ink/Drawing",
     "Ink",
@@ -300,7 +302,6 @@
     "EECS 447/Weak Entity Sets.md",
     "Weak Entity Sets.md",
     "Screenshot 2026-01-27 at 13.07.48.png",
-    "EECS 447/Design Principles.md",
     "**Weak Entity Sets**.md",
     "Untitled.md",
     "EECS 447/DBMS History.md",

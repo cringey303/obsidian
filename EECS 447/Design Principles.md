@@ -12,12 +12,3 @@
 			- store more information about something
 		- it is the "many" in a many-one or many-many relationship.
 
-
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
-	"width": 500,
-	"aspectRatio": 1
-}
-```
