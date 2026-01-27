@@ -1,0 +1,13 @@
+- in practice, majority connect to entities
+- Maximum cardinality
+	- many-to-one (N:1)
+	- one-to-many (1:N)
+	- one-to-one (1:1)
+	- many-to-many 
+		- an entity of either set can be connected to many entities of the other set
+- Minimum Cardinality
+	- zero (partial participation)
+	- one or more (total participation)
+	- E.g. Faculty members teach courses
+		- each faculty member may teach zero, one, or multiple courses
+		- each course must be taught by one faculty member

@@ -1,0 +1,6 @@
+- A weak entity is an entity that does not have a global key attribute
+- Must use key from entity set above + their weak entity key
+- Example: Players on a basketball team
+	- player key: team name + jersey #![[Screenshot 2026-01-27 at 13.07.48.png]]
+	- Alternative to weak entity set: artificial key
+		- e.g. give each player a unique ID
