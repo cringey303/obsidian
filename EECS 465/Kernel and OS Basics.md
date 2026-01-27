@@ -20,5 +20,6 @@ Clients vs Servers
 
 Interacting in a Shell
 - execute commands by name
-- eg, let's use Nmap:
-	- Nmap is a port scanner
+- eg, let's use Nmap, a port scanner
+	- `-h` or `--help`
+	- 
