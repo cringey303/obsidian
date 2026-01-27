@@ -1,6 +1,11 @@
-Operating systems -> Shell -> Kernel -> Hardware
-[[#]]
 
+Operating systems -> Shell -> Kernel -> Hardware
+
+[[#**Root** & **SYSTEM** users vs Regular Users]]
+[[#Local Shell vs Remote Shells]]
+[[#Clients vs Servers]]
+[[#Interacting in a Shell]]
+[[#Metasploit Exploit Lifecycle]]
 ### **Root** & **SYSTEM** users vs Regular Users
 - root (Linux) and SYSTEM (Windows) are the highest privileged users
 	- complete control over the OS and any running applications
@@ -28,4 +33,4 @@ Operating systems -> Shell -> Kernel -> Hardware
 ### Metasploit Exploit Lifecycle
 - pentesting framework that we will be using during the *Exploding Vulnerabilities* activities/practices
 - Metasploit options == parameters to a function
-- 
+
