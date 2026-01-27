@@ -1,3 +1,4 @@
+### top
 
 Operating systems -> Shell -> Kernel -> Hardware
 
@@ -34,3 +35,9 @@ Operating systems -> Shell -> Kernel -> Hardware
 - pentesting framework that we will be using during the *Exploding Vulnerabilities* activities/practices
 - Metasploit options == parameters to a function
 
+### 
+
+
+
+
+[[#top]]
