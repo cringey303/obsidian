@@ -1,4 +1,6 @@
 - Avoid redundancy
 	- saying the same thing in multiple different ways
 	- wastes space and **encourages inconsistency**
-	- 
+- Limit the use of [[Weak Entity Sets]]
+	- unnecessary complexity
+	- instead, try to create
