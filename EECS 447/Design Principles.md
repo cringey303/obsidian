@@ -12,5 +12,5 @@
 			- store more information about something
 		- it is the "many" in a many-one or many-many relationship.
 
-Example
-![[Beer-DrinkerER]]
+Example:
+![[Beer-DrinkerER|1000]]
