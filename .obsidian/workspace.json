@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/Big-O Notation.md",
+                "file": "EECS 330/Big-O and Big-Omega Notation (informally).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big-O Notation"
+              "title": "Big-O and Big-Omega Notation (informally)"
             }
           }
         ],
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EECS 330/Big-O Notation.md",
+                "file": "EECS 330/Big-O and Big-Omega Notation (informally).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Big-O Notation"
+              "title": "Backlinks for Big-O and Big-Omega Notation (informally)"
             }
           },
           {
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EECS 330/Big-O Notation.md",
+                "file": "EECS 330/Big-O and Big-Omega Notation (informally).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Big-O Notation"
+              "title": "Outgoing links from Big-O and Big-Omega Notation (informally)"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 330/Big-O Notation.md",
+                "file": "EECS 330/Big-O and Big-Omega Notation (informally).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Big-O Notation"
+              "title": "Outline of Big-O and Big-Omega Notation (informally)"
             }
           },
           {
@@ -346,10 +346,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "6ea726a6f6473f4e",
   "lastOpenFiles": [
     "Excalidraw/Beer-DrinkerER.md",
-    "EECS 330/Big-O Notation.md",
+    "EECS 330/Big-O and Big-Omega Notation (informally).md",
     "EECS 330",
     "Excalidraw/Drawing 2026-01-27 22.05.10.excalidraw.md",
     "Excalidraw/Drawing 2026-01-27 22.05.03.excalidraw.md",
