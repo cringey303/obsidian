@@ -9,4 +9,3 @@ characterizes the lower bound of the asymptotic behavior
 - since the highest order term is $7n^3$, the slowest it can grow is also $n^3$
 ### $\Theta$-notation
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
-
