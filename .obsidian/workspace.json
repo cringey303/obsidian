@@ -231,6 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Beer-DrinkerER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Beer-DrinkerER"
             }
           },
           {
@@ -249,11 +250,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Beer-DrinkerER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Beer-DrinkerER"
             }
           },
           {
@@ -291,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-27 22.05.10.excalidraw.md",
+                "file": "Excalidraw/Beer-DrinkerER.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-01-27 22.05.10.excalidraw"
+              "title": "Outline of Beer-DrinkerER"
             }
           },
           {
@@ -330,10 +332,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "fe2d2cf512ac9bbf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-27 22.05.03.excalidraw.md",
     "Excalidraw/Drawing 2026-01-27 22.05.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-27 22.05.03.excalidraw.md",
     "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Design Principles.md",
     "EECS 447/Relationships.md",
