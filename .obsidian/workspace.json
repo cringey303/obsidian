@@ -149,14 +149,12 @@
             "id": "fe2d2cf512ac9bbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Beer-DrinkerER.md"
               },
-              "icon": "lucide-file",
-              "title": "KU Mentoring - 27JAN26"
+              "icon": "excalidraw-icon",
+              "title": "Beer-DrinkerER"
             }
           }
         ],
@@ -233,7 +231,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KU Mentoring - 27JAN26"
+              "title": "Backlinks"
             }
           },
           {
@@ -252,12 +249,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KU Mentoring - 27JAN26"
+              "title": "Outgoing links"
             }
           },
           {
@@ -295,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
+                "file": "Excalidraw/Drawing 2026-01-27 22.05.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KU Mentoring - 27JAN26"
+              "title": "Outline of Drawing 2026-01-27 22.05.10.excalidraw"
             }
           },
           {
@@ -315,7 +311,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -334,17 +330,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe2d2cf512ac9bbf",
+  "active": "25b2393ca9ce50e9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-27 22.05.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-27 22.05.10.excalidraw.md",
+    "Excalidraw/Beer-DrinkerER.md",
+    "EECS 447/Design Principles.md",
+    "EECS 447/Relationships.md",
     "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
     "KU Crew/Sports Club Officer Mettings",
-    "EECS 447/Design Principles.md",
     "KU Crew",
     "EECS 465/Kernel and OS Basics.md",
     "EECS 465/27JAN26.md",
     "EECS 465",
-    "EECS 447/Relationships.md",
-    "Excalidraw/Beer-DrinkerER.md",
     "Excalidraw",
     "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
     "Ink/Drawing",
