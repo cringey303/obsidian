@@ -9,3 +9,10 @@ characterizes the lower bound of the asymptotic behavior
 - since the highest order term is $7n^3$, the slowest it can grow is also $n^3$
 ### $\Theta$-notation
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
+
+## Formally:
+Prove $f(n) = \Omega(g(n))$ where 
+- $f(n) = 3n^3+5n^2-7$ 
+- $g(n) = n^3$
+
+find $c*n^3 \leq 3n^3 + 5n^2 - 7$ 
