@@ -11,7 +11,10 @@ characterizes the lower bound of the asymptotic behavior
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
 
 ## Formally:
-O-notation: $0\leq f(n) /leq cg(n)$ for all $$
+O-notation: $0\leq f(n) \leq cg(n)$ for all $n \geq n_{0}$
+$\Omega$-notation: $0\leq cg(n) \leq f(n)$ for all $n \geq n_{0}$
+$\Theta$-notation: $0\leq c_{1}g(n)\leq f(n) \leq c_{2}g(n)$ for all $n \geq n_{0}$
+
 There exists positive constants $c$ and $n_{0}$, such that for all $n\geq n_{0}$​, the following inequality holds:
 $$0\leq c⋅g(n)≤f(n)$$
 Prove $f(n) = \Omega(g(n))$ where 
