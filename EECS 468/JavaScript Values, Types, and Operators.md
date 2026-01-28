@@ -1,5 +1,3 @@
-![[Screenshot 2026-01-28 at 11.03.30.png]]
-
 1. 300
 2. 144
 3. 584
@@ -8,4 +6,6 @@
 6. one or two\nlines
 7. half of 50 is: 25
 8. 11
-9. 
+9. false
+10. 1
+11. ``console.log(100 % 9)``
