@@ -11,8 +11,12 @@ characterizes the lower bound of the asymptotic behavior
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
 
 ## Formally:
+O-notation: $0\leq f(n) /leq cg(n)$ for all $$
+There exists positive constants $c$ and $n_{0}$, such that for all $n\geq n_{0}$​, the following inequality holds:
+$$0\leq c⋅g(n)≤f(n)$$
 Prove $f(n) = \Omega(g(n))$ where 
 - $f(n) = 3n^3+5n^2-7$ 
 - $g(n) = n^3$
+
 
 find $c*n^3 \leq 3n^3 + 5n^2 - 7$ 
