@@ -2,7 +2,7 @@
 
 Operating systems -> Shell -> Kernel -> Hardware
 
-[[#**Root** & **SYSTEM** users vs Regular Users]]
+[[#Root & SYSTEM users vs Regular Users]]
 [[#Local Shell vs Remote Shells]]
 [[#Clients vs Servers]]
 [[#Interacting in a Shell]]
