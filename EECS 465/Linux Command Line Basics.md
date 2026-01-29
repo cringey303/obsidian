@@ -55,4 +55,16 @@
 - Popular manager: **APT** (usually on Debian, Ubuntu, Kali, **yum**, etc)
 
 # LAMP
-- Open source web dev platform that enables uesrs; craate an web applications
+- Open source web dev platform that enables users to create an web applications
+- Popular LAMP applications:
+	- Wiki's 
+	- Content Management Systems
+	- Management software such as PhpMyAdmin
+- Substitition 
+
+## Linux
+- open source 
+- Linux distributions:
+
+## Apach
+MySQL N
