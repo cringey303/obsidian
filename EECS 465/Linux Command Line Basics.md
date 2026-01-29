@@ -53,3 +53,6 @@
 ## Installing Applications/Tools/Utilities/Programs
 - Usually performed through a package manager
 - Popular manager: **APT** (usually on Debian, Ubuntu, Kali, **yum**, etc)
+
+# LAMP
+- Open source web dev platform that enables uesrs; craate an web applications
