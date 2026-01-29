@@ -65,6 +65,13 @@
 ## Linux
 - open source 
 - Linux distributions:
+- Installation process
+  - 1. Updtae pachange-====
 
-## Apach
-MySQL N
+## Apache
+MySQL  populear scalable, fee, relational datasa;;;basnemagend a 
+
+### PHP
+- popular, simple lightweight server-side scriping lang t
+- PHP produces html
+- Client only receives HTML
