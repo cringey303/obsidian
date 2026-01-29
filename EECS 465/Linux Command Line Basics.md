@@ -20,4 +20,8 @@ File Contents
 - `nano, vi, vim` - command line text editors
 
 Network
-- `ifconfig` - "interfac"
+- `ifconfig` - "interface configuration" (lists network interface info, *IP Addresses*)
+- `ping` - checks connectivity status (other hosts, websites, etc.)
+- `wget` and `curl` - retrieves file/webpages over a network
+- `ssh` and `scp` - secure shell and secure copy
+
