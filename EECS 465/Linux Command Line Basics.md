@@ -66,7 +66,8 @@
 - open source 
 - Linux distributions:
 - Installation process
-  - 1. Updtae pachange-====
+	1. Updtae pachage header fooe the OS package manager
+	2. 
 
 ## Apache
 MySQL  populear scalable, fee, relational datasa;;;basnemagend a 
