@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 447/Design Principles.md",
+                "file": "EECS 465/27JAN26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Principles"
+              "title": "27JAN26"
+            }
+          },
+          {
+            "id": "b04b620f7712d7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EECS 465/29JAN26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29JAN26"
+            }
+          },
+          {
+            "id": "ca3956fc4677adc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EECS 465/Course Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Info"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,19 +225,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50219d111e427687",
+  "active": "ca3956fc4677adc9",
   "lastOpenFiles": [
+    "EECS 465/27JAN26.md",
+    "EECS 465/29JAN26.md",
+    "EECS 465/Course Info.md",
+    "EECS 465/Screenshot 2026-01-28 at 11.03.30.png",
+    "EECS 465/Kernel and OS Basics.md",
+    "EECS 447/Design Principles.md",
     "EECS 447/Relationships.md",
     "EECS 447/27JAN26.md",
-    "EECS 447/Design Principles.md",
     "EECS 447/DBMS History.md",
     "EECS 468/JavaScript Values, Types, and Operators.md",
-    "Screenshot 2026-01-28 at 11.03.30.png",
     "EECS 468",
     "Untitled",
     "EECS 330/Big-O, Big-Omega, and  Big-Theta Notation.md",
     "Excalidraw/Beer-DrinkerER.md",
-    "EECS 465/27JAN26.md",
     "EECS 447/Course Materials.md",
     "Screenshot 2026-01-27 at 13.03.05.png",
     "EECS 330/Syllabus notes.md",
@@ -218,7 +250,6 @@
     "KU Crew/Sports Club Officer Mettings/KU Mentoring - 27JAN26.md",
     "KU Crew/Sports Club Officer Mettings",
     "KU Crew",
-    "EECS 465/Kernel and OS Basics.md",
     "EECS 465",
     "Excalidraw",
     "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
