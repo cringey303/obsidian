@@ -34,4 +34,22 @@
 ### Canceling a Command
 - `ctrl+c` - attempts to interrupt and kill the current foreground process
 - `ctrl+z` - suspends a process and places it in the background
-- `kill` - terminate a proce
+- `kill` - terminate a process
+
+### Monitoring Running Processes and System Resources
+- `top` - displays the running processes and allows a
+- `htop` - cooler
+- `ps` -
+
+## Combining Commands
+### Redirections |, >, <
+- `command1 | command2` (piping)
+	- send output of `command1` -> input of `command2`
+- `command1 > command2`
+	- send output of `command1` -> input of `command2`
+- `command1 < command2`
+	- `command1 <- command2`
+
+## Installing Applications/Tools/Utilities/Programs
+- Usually performed through a package manager
+- Popular manager: **APT** 
