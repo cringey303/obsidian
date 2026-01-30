@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca3956fc4677adc9",
+  "active": "25b2393ca9ce50e9",
   "lastOpenFiles": [
     "EECS 465/Course Info.md",
     "EECS 465/Linux Command Line Basics.md",
