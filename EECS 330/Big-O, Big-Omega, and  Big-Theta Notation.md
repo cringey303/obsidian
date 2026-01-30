@@ -20,9 +20,12 @@ strict lower bound
 	- at least as fast as
 - $\omega$-notation: $>$
 	- strictly faster than
-- 
+	- $\lim_{ n \to \infty } \frac{f(n)}{g(n)} = \infty$
 ### $\Theta$-notation
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
+
+### Comparison of functions
+![[Screenshot 2026-01-30 at 10.21.57.png|400]]
 
 ## Formally:
 O-notation: $0\leq f(n) \leq cg(n)$ for all $n \geq n_{0}$
