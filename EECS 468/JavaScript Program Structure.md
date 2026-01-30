@@ -7,7 +7,7 @@
    -----
    ------
    ```
-2. ```
+2. ``` part 2 and 3
    /*
 	1st part: initialize line variable to "-"
 	2nd part: while the length of the line is less than 7, run the loop

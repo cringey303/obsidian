@@ -81,10 +81,14 @@
             "id": "fb49ce3ea3e43322",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EECS 468/JavaScript Program Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript Program Structure"
             }
           }
         ],
@@ -265,12 +269,12 @@
   },
   "active": "fb49ce3ea3e43322",
   "lastOpenFiles": [
+    "EECS 468/EECS 468 Programming Paradigms.md",
     "EECS 465/EECS 465 Cyber Defense.md",
     "EECS 465/Course Info.md",
     "EECS 465/29JAN26.md",
     "Untitled",
     "2026-01-29.md",
-    "EECS 468/EECS 468 Programming Paradigms.md",
     "EECS 468/JavaScript Program Structure.md",
     "Screenshot 2026-01-30 at 11.07.32.png",
     "EECS 468/JavaScript Values, Types, and Operators.md",
