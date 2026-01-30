@@ -60,19 +60,19 @@
 	- Wiki's 
 	- Content Management Systems
 	- Management software such as PhpMyAdmin
-- Substitition 
+- Substitution 
 
 ## Linux
 - open source 
 - Linux distributions:
 - Installation process
-	1. Updtae pachage header fooe the OS package manager
+	1. Update package header fooe the OS package manager
 	2. 
 
 ## Apache
-MySQL  populear scalable, fee, relational datasa;;;basnemagend a 
+MySQL - popular scalable, fee, relational database manager 
 
 ### PHP
-- popular, simple lightweight server-side scriping lang t
+- popular, simple lightweight server-side scripting language
 - PHP produces html
 - Client only receives HTML
