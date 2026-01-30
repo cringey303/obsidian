@@ -70,7 +70,7 @@ e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating func
 3. $2^n$
 4. $n^3$
 5. $n^2$
-6. $(\sqrt{ 2 })^{\lg n} = n^{\lg\sqrt{ 2 }} = n^{\lg 2}^{\frac{1}{2}} = $
+6. $(\sqrt{ 2 })^{\lg n} = n^{\lg\sqrt{ 2 }} = \frac{{n^{\lg 2}}$
 7. $n\lg n$
 8. $n$
 9. $2^{\lg n} = n^{\lg2} = n$ 
