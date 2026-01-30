@@ -25,9 +25,6 @@ strict lower bound
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
 
 ### Comparison of functions
-- $f(n)= O(g(n))$ is like $a\leq b$
-- $f(n)= \Omega(g(n))$ is like $a\geq b$
-- $f(n)= O(g(n))$ is like $a\leq b$
 ![[Screenshot 2026-01-30 at 10.21.57.png|400]]
 Note: some things work for real numbers, but not for functions.
 e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating functions 
@@ -51,3 +48,10 @@ find $c*n^3 \leq 3n^3 + 5n^2 - 7$
 - _cannot say_: $O(n\log n)$-time algo runs faster than an $O(n^2)$-time algo. 
 - best to say: the running time is $\Theta(n^2)$.
 - could say: running time is $\Theta(n^3)$, but that's less precise
+
+---
+### Asymptotic growth of functions
+![[Screenshot 2026-01-30 at 10.28.59.png]]
+- base of logs DON'T matter asymptotically
+- base of an exponential and the degree of a polynomial or polylog DO matter asymptotically
+- 
