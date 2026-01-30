@@ -66,7 +66,7 @@
 - open source 
 - Linux distributions:
 - Installation process
-	1. Update package header fooe the OS package manager
+	1. Update package header for the OS package manager
 	2. 
 
 ## Apache
