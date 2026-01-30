@@ -1,0 +1,9 @@
+[[Course Info]]
+
+---
+[[EECS 465/27JAN26|27JAN26]]
+[[29JAN26]]
+### Notes
+[[Kernel and OS Basics]]
+[[Linux Command Line Basics]]
+
