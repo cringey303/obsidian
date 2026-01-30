@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/Big-O, Big-Omega, and  Big-Theta Notation.md",
+                "file": "EECS 330/Asymptotic Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big-O, Big-Omega, and  Big-Theta Notation"
+              "title": "Asymptotic Notation"
             }
           }
         ],
@@ -227,6 +227,8 @@
   },
   "active": "ca3956fc4677adc9",
   "lastOpenFiles": [
+    "Screenshot 2026-01-30 at 10.38.54.png",
+    "Screenshot 2026-01-30 at 10.36.56.png",
     "Screenshot 2026-01-30 at 10.32.12.png",
     "Screenshot 2026-01-30 at 10.28.59.png",
     "Screenshot 2026-01-30 at 10.21.57.png",
@@ -246,7 +248,7 @@
     "EECS 468/JavaScript Values, Types, and Operators.md",
     "EECS 468",
     "Untitled",
-    "EECS 330/Big-O, Big-Omega, and  Big-Theta Notation.md",
+    "EECS 330/Asymptotic Notation.md",
     "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Course Materials.md",
     "Screenshot 2026-01-27 at 13.03.05.png",

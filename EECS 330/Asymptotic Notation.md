@@ -1,3 +1,4 @@
+Big-O, Big-Omega, and Big-Theta
 ## Informally:
 ### O-notation 
 characterizes an upper bound on the asymptotic behavior of a function
@@ -23,11 +24,6 @@ strict lower bound
 	- $\lim_{ n \to \infty } \frac{f(n)}{g(n)} = \infty$
 ### $\Theta$-notation
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
-
-### Comparison of functions
-![[Screenshot 2026-01-30 at 10.21.57.png|400]]
-Note: some things work for real numbers, but not for functions.
-e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating functions 
 ## Formally:
 O-notation: $0\leq f(n) \leq cg(n)$ for all $n \geq n_{0}$
 $\Omega$-notation: $0\leq cg(n) \leq f(n)$ for all $n \geq n_{0}$
@@ -43,6 +39,10 @@ Prove $f(n) = \Omega(g(n))$ where
 find $c*n^3 \leq 3n^3 + 5n^2 - 7$ 
 
 ---
+### Comparison of functions
+![[Screenshot 2026-01-30 at 10.21.57.png|400]]
+Note: some things work for real numbers, but not for functions.
+e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating functions 
 ### Correct use of asymptotic notation:
 - O-notation is NOT $\Theta$-notation
 - _cannot say_: $O(n\log n)$-time algo runs faster than an $O(n^2)$-time algo. 
@@ -54,6 +54,13 @@ find $c*n^3 \leq 3n^3 + 5n^2 - 7$
 ![[Screenshot 2026-01-30 at 10.28.59.png]]
 - base of logs DON'T matter asymptotically
 - base of an exponential and the degree of a polynomial or polylog DO matter asymptotically
-
+---
 ### Notational convention
 ![[Screenshot 2026-01-30 at 10.32.12.png|400]]
+
+### Logarithmic properties
+![[Screenshot 2026-01-30 at 10.36.56.png|300]]
+
+---
+### Excercise
+![[Screenshot 2026-01-30 at 10.38.54.png|600]]
