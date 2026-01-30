@@ -62,5 +62,13 @@ e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating func
 ![[Screenshot 2026-01-30 at 10.36.56.png|300]]
 
 ---
-### Excercise
+### Exercise
 ![[Screenshot 2026-01-30 at 10.38.54.png|600]]
+
+1. $\lg^2n$
+2. $n$
+3. $n\lg n$
+4. 
+5. 
+6. $n^3$
+7. $n!$
