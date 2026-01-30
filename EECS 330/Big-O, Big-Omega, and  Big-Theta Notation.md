@@ -54,4 +54,6 @@ find $c*n^3 \leq 3n^3 + 5n^2 - 7$
 ![[Screenshot 2026-01-30 at 10.28.59.png]]
 - base of logs DON'T matter asymptotically
 - base of an exponential and the degree of a polynomial or polylog DO matter asymptotically
-- 
+
+### Notational convention
+![[Screenshot 2026-01-30 at 10.32.12.png|400]]
