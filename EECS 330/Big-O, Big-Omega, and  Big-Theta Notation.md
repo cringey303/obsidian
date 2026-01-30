@@ -10,10 +10,13 @@ characterizes a strict upper bound on the asymptotic behavior of a function
 	- no faster than
 - o-notation: $<$
 	- *strictly* less than
-- 
+	- $\lim_{ n \to \infty } \frac{f(n)}{g(n)} = 0$; e.g. $\lim_{ n \to \infty } \frac{n^{1.9999}}{n^2} = \lim_{ n \to \infty } \frac{1}{n^{0.0001}}$
+	- 
 ### $\Omega$-notation 
 characterizes the lower bound of the asymptotic behavior
 - since the highest order term is $7n^3$, the slowest it can grow is also $n^3$
+### $\omega$-notation
+strict lower bound
 ### $\Theta$-notation
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
 
