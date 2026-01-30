@@ -23,3 +23,8 @@ Prove $f(n) = \Omega(g(n))$ where
 
 
 find $c*n^3 \leq 3n^3 + 5n^2 - 7$ 
+
+---
+Correct use of asymptotic notation:
+- O-notation is NOT $\Theta$-notation
+- _cannot say_: $O(n\log n)$-time algo runs faster than an $O(n^2)$-time algo. 
