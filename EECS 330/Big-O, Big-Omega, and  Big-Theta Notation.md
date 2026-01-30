@@ -25,8 +25,12 @@ strict lower bound
 If a function has the same lower and upper bounds of $g(n)$ (O($g(n)$) and $\Omega(g(n))$), then you can claim $\Theta(g(n))$ 
 
 ### Comparison of functions
+- $f(n)= O(g(n))$ is like $a\leq b$
+- $f(n)= \Omega(g(n))$ is like $a\geq b$
+- $f(n)= O(g(n))$ is like $a\leq b$
 ![[Screenshot 2026-01-30 at 10.21.57.png|400]]
-
+Note: some things work for real numbers, but not for functions.
+e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating functions 
 ## Formally:
 O-notation: $0\leq f(n) \leq cg(n)$ for all $n \geq n_{0}$
 $\Omega$-notation: $0\leq cg(n) \leq f(n)$ for all $n \geq n_{0}$
