@@ -4,6 +4,13 @@ characterizes an upper bound on the asymptotic behavior of a function
 - It says that a function grows no faster than a certain rate.
 - This rate is based on the highest-order term.
 - eg $7n^3+100n^2-20n+6$ is *$O(n^3)$ since the highest order term is $7n^3$, therefore that is the fastest it can grow
+### o-notation
+characterizes a strict upper bound on the asymptotic behavior of a function
+- O-notation: $\leq$
+	- no faster than
+- o-notation: $<$
+	- *strictly* less than
+- 
 ### $\Omega$-notation 
 characterizes the lower bound of the asymptotic behavior
 - since the highest order term is $7n^3$, the slowest it can grow is also $n^3$
@@ -25,6 +32,8 @@ Prove $f(n) = \Omega(g(n))$ where
 find $c*n^3 \leq 3n^3 + 5n^2 - 7$ 
 
 ---
-Correct use of asymptotic notation:
+### Correct use of asymptotic notation:
 - O-notation is NOT $\Theta$-notation
 - _cannot say_: $O(n\log n)$-time algo runs faster than an $O(n^2)$-time algo. 
+- best to say: the running time is $\Theta(n^2)$.
+- could say: running time is $\Theta(n^3)$, but that's less precise
