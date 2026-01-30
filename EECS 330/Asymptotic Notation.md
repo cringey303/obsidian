@@ -65,20 +65,14 @@ e.g. one must be true: $a\leq b, b\geq a$, however not true for oscillating func
 ### Exercise
 ![[Screenshot 2026-01-30 at 10.38.54.png|600]]
 
-1. $\lg^2n$
-2. $n$
-3. $n\lg n$
-4. 
-5. 
-6. $n^3$
-7. $e^n$
-8. $n!$
+1. $n!$
+2. $e^n$
+3. $2^n$
+4. $n^3$
+5. $n^2$
+6. $(\sqrt{ 2 })^{\lg n} = n^{\lg\sqrt{ 2 }} = n^{\lg 2}^{\frac{1}{2}} = $
+7. $n\lg n$
+8. $n$
+9. $2^{\lg n} = n^{\lg2} = n$ 
+10. $\lg^2n$
 
-9. $n!$
-10. $e^n$
-11. $2^n$
-12. $n^3$
-13. 
-14. 
-15. 
-16. $\lg^2n$
