@@ -25,12 +25,14 @@
             "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/4.1.2 BankER.md"
+                "file": "EECS 447/HW1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "4.1.2 BankER"
+              "icon": "lucide-file",
+              "title": "HW1"
             }
           }
         ],
@@ -211,8 +213,8 @@
   },
   "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
-    "EECS 447/HW1.md",
     "Excalidraw/4.1.2 BankER.md",
+    "EECS 447/HW1.md",
     "Excalidraw/4.1.1 BankER.md",
     "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Design Principles.md",
