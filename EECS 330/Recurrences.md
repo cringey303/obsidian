@@ -25,7 +25,8 @@ Example: $T(n)=4T\left( \frac{n}{2} \right)+n$
 	- each node represents the cost of a single subproblem somewhere in the recursive functions
 - Can be unreliable
 - Not formal proof
-	- 
+	- Use recursion tree to generate a guess
+	- use sub method to prove the guess
 
 Example: $T(n)=3T\left( \frac{n}{4} \right)+\Theta(n^2)$
 ![[Screenshot 2026-02-02 at 10.28.55.png]]
@@ -35,3 +36,5 @@ Total # of leaves: $3^{height} = 3^{\log_{4}n} = n^{\log_{4}3}$
 
 ---
 ## Master method
+Provides a "cookbook" method for solving algorithmic recurrences of the form where $( a>0,b>1)$ $$T(n)=aT\left( \frac{n}{b} \right)+f(n)$$Note: in general, $a$ and $b$ may not be equal
+
