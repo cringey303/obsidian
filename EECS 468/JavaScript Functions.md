@@ -19,5 +19,7 @@
    }
    ```
 3. ```
-   const countEs = countEs(string)
+   const numEs = countEs(string) {
+	   return countChar(string, "E");
+   }
    ```
