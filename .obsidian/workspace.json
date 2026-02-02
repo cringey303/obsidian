@@ -33,8 +33,7 @@
               "title": "4.1.2 BankER"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,14 +208,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0360ef9f985ad0ea",
+  "active": "93fb9d120f8607d8",
   "lastOpenFiles": [
+    "Excalidraw/4.1.2 BankER.md",
     "EECS 447/HW1.md",
+    "Excalidraw/4.1.1 BankER.md",
+    "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Design Principles.md",
     "EECS 447/DBMS History.md",
-    "Excalidraw/4.1.1 BankER.md",
-    "Excalidraw/4.1.2 BankER.md",
-    "Excalidraw/Beer-DrinkerER.md",
     "Excalidraw/4.1 BankER 1.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 330/Recurrences.md",
