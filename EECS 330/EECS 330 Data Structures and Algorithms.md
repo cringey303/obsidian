@@ -4,6 +4,7 @@ Professor:
 ---
 ### Notes
 [[Asymptotic Notation]]
+[[Recurrences]]
 
 ---
 ### Labs
