@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 468/JavaScript Program Structure.md",
+                "file": "EECS 468/JavaScript Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Program Structure"
+              "title": "JavaScript Functions"
             }
           }
         ],
@@ -309,8 +309,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "838b658e0a76e348",
   "lastOpenFiles": [
+    "EECS 468/JavaScript Program Structure.md",
     "EECS 468/JavaScript Functions.md",
     "EECS 468/EECS 468 Programming Paradigms.md",
     "Untitled 2.canvas",
@@ -324,7 +325,6 @@
     "EECS 465/29JAN26.md",
     "EECS 465/27JAN26.md",
     "EECS 468/JavaScript Values, Types, and Operators.md",
-    "EECS 468/JavaScript Program Structure.md",
     "EECS 510/union rules.md",
     "EECS 447/Weak Entity Sets.md",
     "EECS 447/DBMS History.md",
