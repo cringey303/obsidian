@@ -49,10 +49,14 @@
             "id": "dc2f5d50f569a7a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EECS 465/Kernel and OS Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel and OS Basics"
             }
           }
         ],
