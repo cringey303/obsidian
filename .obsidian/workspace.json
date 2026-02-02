@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/Labs.md",
+                "file": "EECS 465/Course Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labs"
+              "title": "Course Info"
             }
           }
         ],
@@ -311,6 +311,9 @@
   },
   "active": "838b658e0a76e348",
   "lastOpenFiles": [
+    "EECS 465/Kernel and OS Basics.md",
+    "EECS 465/EECS 465 Cyber Defense.md",
+    "EECS 330/Labs.md",
     "EECS 468/JavaScript Functions.md",
     "EECS 468/JavaScript Program Structure.md",
     "EECS 468/EECS 468 Programming Paradigms.md",
@@ -319,8 +322,6 @@
     "Untitled.canvas",
     "Screenshot 2026-02-02 at 11.04.40.png",
     "EECS 330/Recurrences.md",
-    "EECS 465/Kernel and OS Basics.md",
-    "EECS 465/EECS 465 Cyber Defense.md",
     "EECS 465/Course Info.md",
     "EECS 465/29JAN26.md",
     "EECS 465/27JAN26.md",
@@ -343,7 +344,6 @@
     "EECS 447/Subclasses.md",
     "EECS 447/Relationships.md",
     "EECS 330/EECS 330 Data Structures and Algorithms.md",
-    "EECS 330/Labs.md",
     "EECS 330/Syllabus notes.md",
     "Untitled",
     "2026-01-29.md",
