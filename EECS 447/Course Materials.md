@@ -1,3 +1,0 @@
-- Database systems: the complete book
-- Database management systems
-- Slides, assignments, etc
