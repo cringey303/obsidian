@@ -26,4 +26,6 @@ Example: $T(n)=4T\left( \frac{n}{2} \right)+n$
 - Can be unreliable
 
 Example: $T(n)=3T\left( \frac{n}{4} \right)+\Theta(n^2)$
-$T(n) \equiv$
+![[Screenshot 2026-02-02 at 10.28.55.png]]
+
+Total # of leaves: $3*height = 3$
