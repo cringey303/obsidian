@@ -23,3 +23,8 @@
 	   return countChar(string, "E");
    }
    ```
+4. ```
+   const numEs = (string) => {
+	   return countChar(string, "E");
+   }
+   ```
