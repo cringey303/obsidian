@@ -137,17 +137,12 @@
             "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Excalidraw/Drawing 2026-02-02 15.22.28.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-02 15.22.28.excalidraw"
             }
           }
         ],
@@ -326,16 +321,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
+    "EECS 447/HW1.md",
+    "Excalidraw/Drawing 2026-02-02 15.22.28.excalidraw.md",
+    "EECS 447/!EECS 447 Intro to Database Systems.md",
+    "Untitled.canvas",
     "Screenshots/Screenshot 2026-01-27 at 13.03.05.png",
     "Screenshots",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 468/!EECS 468 Programming Paradigms.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
-    "EECS 447/!EECS 447 Intro to Database Systems.md",
-    "EECS 447/HW1.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "EECS 465/Course Info.md",
     "EECS 465/Kernel and OS Basics.md",
@@ -360,7 +356,6 @@
     "Screenshots/Screenshot 2026-02-02 at 10.24.12.png",
     "Screenshots/Screenshot 2026-02-02 at 10.19.05.png",
     "Screenshots/Screenshot 2026-02-02 at 10.16.34.png",
-    "Screenshots/Screenshot 2026-02-02 at 10.14.43.png",
     "EECS 330/Asymptotic Notation.md",
     "EECS 447/Subclasses.md",
     "EECS 447/Relationships.md",
