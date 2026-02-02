@@ -28,4 +28,6 @@ Example: $T(n)=4T\left( \frac{n}{2} \right)+n$
 Example: $T(n)=3T\left( \frac{n}{4} \right)+\Theta(n^2)$
 ![[Screenshot 2026-02-02 at 10.28.55.png]]
 
-Total # of leaves: $3*height = 3$
+Total # of leaves: $3^{height} = 3^{\log_{4}n} = n^{\log_{4}3}$
+![[Screenshot 2026-02-02 at 10.35.23.png]]
+
