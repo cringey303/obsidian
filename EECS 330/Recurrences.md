@@ -24,6 +24,8 @@ Example: $T(n)=4T\left( \frac{n}{2} \right)+n$
 - A recursion tree models the running time of a recursion
 	- each node represents the cost of a single subproblem somewhere in the recursive functions
 - Can be unreliable
+- Not formal proof
+	- 
 
 Example: $T(n)=3T\left( \frac{n}{4} \right)+\Theta(n^2)$
 ![[Screenshot 2026-02-02 at 10.28.55.png]]
@@ -31,3 +33,5 @@ Example: $T(n)=3T\left( \frac{n}{4} \right)+\Theta(n^2)$
 Total # of leaves: $3^{height} = 3^{\log_{4}n} = n^{\log_{4}3}$
 ![[Screenshot 2026-02-02 at 10.35.23.png]]
 
+---
+## Master method
