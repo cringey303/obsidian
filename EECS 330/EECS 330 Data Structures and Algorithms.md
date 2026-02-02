@@ -8,4 +8,4 @@ Professor:
 
 ---
 ### Labs
-[[Lab 0]]
+[[Labs]]
