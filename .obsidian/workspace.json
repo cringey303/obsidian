@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0360ef9f985ad0ea",
+            "id": "93fb9d120f8607d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "08555f7b20582081",
+            "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/4.1 BankER.md"
+                "file": "Excalidraw/Drawing 2026-02-02 15.30.46.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "4.1 BankER"
+              "title": "Drawing 2026-02-02 15.30.46.excalidraw"
             }
           }
         ],
@@ -209,11 +209,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "08555f7b20582081",
+  "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
     "Excalidraw/Beer-DrinkerER.md",
-    "Excalidraw/4.1 BankER.md",
+    "Excalidraw/Drawing 2026-02-02 15.30.46.excalidraw.md",
     "EECS 447/HW1.md",
+    "Excalidraw/4.1 BankER.md",
+    "Excalidraw/4.1 BankER 1.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 330/Recurrences.md",
     "EECS 465/29JAN26.md",
@@ -249,8 +251,6 @@
     "EECS 447/Subclasses.md",
     "EECS 447/Relationships.md",
     "EECS 330/Syllabus notes.md",
-    "2026-01-29.md",
-    "EECS 465/Linux Command Line Basics.md",
     "EECS 468",
     "EECS 330",
     "KU Crew/Sports Club Officer Mettings",
