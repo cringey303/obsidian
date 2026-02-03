@@ -22,6 +22,11 @@ Example:
 *Want a language composed of 0s and 1s, and total characters have to be a multiple of 3.*
 $$\{x \in \{0,1\}* | x\text{ has to be multiple of }3\}$$
 solution: 
-- 
-- any non-1 or -0 goes back to the start
-- any 0 or 1 advances one state
+- 3 states: 0, 1, 2
+- number of chars so far
+	- 0 mod 3
+	- 1 mod 3
+	- 2 mod 3
+	- etc
+- these mods fit every number of chars
+	- any multiple of 3 will fit state 0, the "final" state
