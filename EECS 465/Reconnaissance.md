@@ -42,7 +42,24 @@
 		- UDP
 			- send a UDP packet
 			- example: `nmap -sU target_ip`
-		- TCP FIN mode
-			- if a RST is return
-				- the port is closed
-			- 
+		- Nmap Scans
+			- TCP FIN mode
+				- if a RST is return
+					- the port is closed
+				- if no response is returned
+					- the port may be open
+				- example:
+					- nmap [-sF] target_ip
+			- Xmas Tree mode (lighting up a packet like a xmas tree; hella flags)
+				- send a TCP segment
+			- Null mode (no flags)
+				- example: nmap [-sN] target_ip
+				- see how system reacts -> can tell what OS it is
+			- TCP ACK mode
+				- example: nmap
+				- used to determine what rules a packet filter applies
+			- Other options
+				- specifying port ranges
+					- scan only selected ports with the `-p` flag
+				- settings source ports
+					- set source port (e.g., 80 or 25)
