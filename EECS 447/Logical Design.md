@@ -30,3 +30,10 @@
 			- number of attributes
 - ![[Screenshot 2026-02-03 at 13.05.07.png|500]]
 - ![[Screenshot 2026-02-03 at 13.05.57.png|500]]
+	- use commas for attributes
+
+![[Screenshot 2026-02-03 at 13.06.31.png|500]]
+- Tuples in a relation are *not* considered to be ordered, even though they appear to be in the tabular form
+- all values are considered *atomic* (indivisible)
+- A *<span style="color:rgb(0, 176, 240)">special null value</span>* is used to represent values that are unknown or inapplicable to certain tuples
+-  
