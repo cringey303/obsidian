@@ -36,4 +36,7 @@
 - Tuples in a relation are *not* considered to be ordered, even though they appear to be in the tabular form
 - all values are considered *atomic* (indivisible)
 - A *<span style="color:rgb(0, 176, 240)">special null value</span>* is used to represent values that are unknown or inapplicable to certain tuples
--  
+
+## Relational Integrity Constraints
+- Constraints are *conditions* that must hold on *all* valid relation instances. There are three main types of constraints:
+	-
