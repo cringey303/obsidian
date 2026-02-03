@@ -25,12 +25,14 @@
             "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-02 20.40.41.excalidraw.md"
+                "file": "EECS 447/HW1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-02 20.40.41.excalidraw"
+              "icon": "lucide-file",
+              "title": "HW1"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "50318f50444395ed",
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-02 20.40.41.excalidraw.md",
+                "file": "EECS 447/HW1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-02 20.40.41.excalidraw"
+              "title": "Outline of HW1"
             }
           },
           {
@@ -211,14 +212,16 @@
   },
   "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
-    "Excalidraw/4.4.4a.md",
-    "Excalidraw/Drawing 2026-02-02 20.40.41.excalidraw.md",
+    "Excalidraw/4.1.2cd.md",
+    "Excalidraw/4.1.1.md",
+    "Excalidraw/4.1.2ab.md",
     "EECS 447/HW1.md",
+    "Excalidraw/4.4.4b.md",
+    "Excalidraw/4.4.4a.md",
+    "EECS 447/Weak Entity Sets.md",
     "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
     "Screenshot 2026-02-02 at 20.27.52.png",
     "Screenshot 2026-02-02 at 20.27.25.png",
-    "Excalidraw/4.1.2 BankER.md",
-    "Excalidraw/4.1.1 BankER.md",
     "Excalidraw/Beer-DrinkerER.md",
     "EECS 447/Design Principles.md",
     "EECS 447/DBMS History.md",
@@ -243,14 +246,12 @@
     "Untitled 2.canvas",
     "Screenshots/Screenshot 2026-02-02 at 11.04.40.png",
     "EECS 510/union rules.md",
-    "EECS 447/Weak Entity Sets.md",
     "Screenshots/Screenshot 2026-02-02 at 10.49.02.png",
     "Screenshots/Screenshot 2026-02-02 at 10.48.47.png",
     "Screenshots/Screenshot 2026-02-02 at 10.35.23.png",
     "Screenshots/Screenshot 2026-02-02 at 10.28.55.png",
     "Screenshots/Screenshot 2026-02-02 at 10.28.30.png",
     "Screenshots/Screenshot 2026-02-02 at 10.24.12.png",
-    "EECS 330/Asymptotic Notation.md",
     "EECS 468",
     "EECS 330",
     "KU Crew/Sports Club Officer Mettings",
