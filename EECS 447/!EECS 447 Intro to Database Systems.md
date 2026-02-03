@@ -11,7 +11,7 @@ Professor: Bo Luo
 [[Relationships]]
 [[Subclasses]]
 [[Weak Entity Sets]]
-[[Database Design]]
+[[Logical Design]]
 
 ---
 ### HW
