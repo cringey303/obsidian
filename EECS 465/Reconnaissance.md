@@ -1,0 +1,11 @@
+- Information gathering
+- before attacking, skilled adversaries learn as much as possible about
+	- the target systems and networks
+		- hardware and software
+		- network topology
+		- typical operation
+			- how often people look at the system
+			- how things are logged
+	- Admins, users, owners
+		- phishing emails
+		- 
