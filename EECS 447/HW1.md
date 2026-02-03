@@ -9,3 +9,5 @@ I would combine the two entity sets into a single set with attributes if we don'
 Same goes for the other way around where you have Presidents and you just need to know what Studio they run. This would work if Presidents only had one Studio.
 
 ### 4.4.4
+![[4.4.4a]]
+
