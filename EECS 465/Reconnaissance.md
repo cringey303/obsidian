@@ -32,3 +32,11 @@
 	- Nmap (https://nmap.org/)
 		- Port scanner, ping sweep, and OS fingerprinting tool
 		- Zenmap is a graphical interfacer for Nmap
+		- Ping sweeps
+			- example: `nmap -sP target_ip`
+		- TCP connect
+			- Three-way handshake
+			- example: `nmap [-sT] target_ip`
+		- UDP
+			- send a UDP packet
+			- example: `nmap -sU target_ip`
