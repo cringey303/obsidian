@@ -20,4 +20,8 @@ Design the automata to reach the final state of 3 consecutive $a$s:
 
 Example:
 *Want a language composed of 0s and 1s, and total characters have to be a multiple of 3.*
-$${x {0,1}* | x\text{ has to be multiple of 3}}$$
+$$\{x \in \{0,1\}* | x\text{ has to be multiple of }3\}$$
+solution: 
+- 
+- any non-1 or -0 goes back to the start
+- any 0 or 1 advances one state
