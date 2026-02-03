@@ -37,6 +37,12 @@
 		- TCP connect
 			- Three-way handshake
 			- example: `nmap [-sT] target_ip`
+			- not as reliable
+			- use for things like streaming
 		- UDP
 			- send a UDP packet
 			- example: `nmap -sU target_ip`
+		- TCP FIN mode
+			- if a RST is return
+				- the port is closed
+			- 
