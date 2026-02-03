@@ -25,14 +25,12 @@
             "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EECS 447/HW1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-02-02 20.33.50.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "HW1"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-02 20.33.50.excalidraw"
             }
           }
         ],
@@ -172,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 447/HW1.md",
+                "file": "Excalidraw/Drawing 2026-02-02 20.33.50.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW1"
+              "title": "Outline of Drawing 2026-02-02 20.33.50.excalidraw"
             }
           },
           {
@@ -213,10 +211,11 @@
   },
   "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-02 20.33.50.excalidraw.md",
+    "EECS 447/HW1.md",
     "Screenshot 2026-02-02 at 20.27.52.png",
     "Screenshot 2026-02-02 at 20.27.25.png",
-    "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
-    "EECS 447/HW1.md",
     "Excalidraw/4.1.2 BankER.md",
     "Excalidraw/4.1.1 BankER.md",
     "Excalidraw/Beer-DrinkerER.md",
@@ -250,7 +249,6 @@
     "Screenshots/Screenshot 2026-02-02 at 10.28.55.png",
     "Screenshots/Screenshot 2026-02-02 at 10.28.30.png",
     "Screenshots/Screenshot 2026-02-02 at 10.24.12.png",
-    "Screenshots/Screenshot 2026-02-02 at 10.19.05.png",
     "EECS 330/Asymptotic Notation.md",
     "EECS 447/Subclasses.md",
     "EECS 468",
