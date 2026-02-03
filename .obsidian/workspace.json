@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-03 08.18.56.excalidraw.md"
+                "file": "Excalidraw/FiniteAutomataEg.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-03 08.18.56.excalidraw"
+              "title": "FiniteAutomataEg"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-03 08.18.56.excalidraw.md",
+                "file": "EECS 510/Finite Automata.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-03 08.18.56.excalidraw"
+              "title": "Outline of Finite Automata"
             }
           },
           {
@@ -234,10 +234,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7ccb2fddd5c77251",
+  "active": "10d5cdd34f9a0f7b",
   "lastOpenFiles": [
+    "Excalidraw/FiniteAutomataEg.md",
     "EECS 510/Finite Automata.md",
-    "Excalidraw/Drawing 2026-02-03 08.18.56.excalidraw.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/union rules.md",
     "Excalidraw/4.4.4b.md",

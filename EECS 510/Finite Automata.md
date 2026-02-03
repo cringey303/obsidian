@@ -16,3 +16,8 @@ Design the automata to reach the final state of 3 consecutive $a$s:
 - 4 states: 0,1,2,3
 - only $a$ advances to the next state
 - any other character resets to first state
+![[FiniteAutomataEg|200]]
+
+Example:
+*Want a language composed of 0s and 1s, and total characters have to be a multiple of 3.*
+$${x {0,1}* | x\text{ has to be multiple of 3}}$$
