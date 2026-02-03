@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 510/Finite Automata.md",
+                "file": "EECS 447/Design Principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite Automata"
+              "title": "Design Principles"
             }
           }
         ],
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 510/Finite Automata.md",
+                "file": "EECS 447/Design Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finite Automata"
+              "title": "Outline of Design Principles"
             }
           },
           {
@@ -236,8 +236,12 @@
   },
   "active": "10d5cdd34f9a0f7b",
   "lastOpenFiles": [
-    "Excalidraw/FiniteAutomataEg.md",
+    "EECS 447/DBMS History.md",
+    "EECS 447/Design Principles.md",
+    "EECS 447/!EECS 447 Intro to Database Systems.md",
+    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 510/Finite Automata.md",
+    "Excalidraw/FiniteAutomataEg.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/union rules.md",
     "Excalidraw/4.4.4b.md",
@@ -251,10 +255,7 @@
     "Screenshot 2026-02-02 at 20.27.52.png",
     "Screenshot 2026-02-02 at 20.27.25.png",
     "Excalidraw/Beer-DrinkerER.md",
-    "EECS 447/Design Principles.md",
-    "EECS 447/DBMS History.md",
     "Excalidraw/4.1 BankER 1.md",
-    "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 330/Recurrences.md",
     "EECS 465/29JAN26.md",
     "EECS 468/JavaScript Program Structure.md",
@@ -263,7 +264,6 @@
     "Untitled.canvas",
     "Screenshots/Screenshot 2026-01-27 at 13.03.05.png",
     "Screenshots",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 468/!EECS 468 Programming Paradigms.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "Untitled 1.canvas",
