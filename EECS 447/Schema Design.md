@@ -1,5 +1,0 @@
-- Conceptual Design
-	- "sketch the design"
-	- subjective
-- Schema design
-	- rules to fol
