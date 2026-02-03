@@ -49,4 +49,14 @@
 	2. Key constraints
 	3. Referrential integrity constraints
 	![[Screenshot 2026-02-03 at 13.15.11.png|250]]  ![[Screenshot 2026-02-03 at 13.15.27.png|350]]
-	
+
+---
+## Primary Keys
+- A set of attributes is a *candidate key* for a relation if:
+	1. No two distinct tuples can have same values in all key fields, and
+	2. This is not true for any subset of the key.
+		- Only condition 1? A <span style="color:rgb(0, 176, 240)"><i>superkey</i></span>
+- A candidate key is sometimes called a <span style="color:rgb(0, 176, 240)"><i>minimal superkey</i></span>
+- The set of all attributes is a superkey
+- If there's > 1 key for a relation, one of the keys is chosen (by DBA) to be the *primary key*
+- 
