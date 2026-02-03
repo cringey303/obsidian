@@ -25,12 +25,14 @@
             "id": "0360ef9f985ad0ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md"
+                "file": "EECS 447/HW1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-02 20.26.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "HW1"
             }
           }
         ],
@@ -170,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
+                "file": "EECS 447/HW1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-02 20.26.09.excalidraw"
+              "title": "Outline of HW1"
             }
           },
           {
@@ -211,8 +213,10 @@
   },
   "active": "0360ef9f985ad0ea",
   "lastOpenFiles": [
-    "EECS 447/HW1.md",
+    "Screenshot 2026-02-02 at 20.27.52.png",
+    "Screenshot 2026-02-02 at 20.27.25.png",
     "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
+    "EECS 447/HW1.md",
     "Excalidraw/4.1.2 BankER.md",
     "Excalidraw/4.1.1 BankER.md",
     "Excalidraw/Beer-DrinkerER.md",
@@ -247,10 +251,8 @@
     "Screenshots/Screenshot 2026-02-02 at 10.28.30.png",
     "Screenshots/Screenshot 2026-02-02 at 10.24.12.png",
     "Screenshots/Screenshot 2026-02-02 at 10.19.05.png",
-    "Screenshots/Screenshot 2026-02-02 at 10.16.34.png",
     "EECS 330/Asymptotic Notation.md",
     "EECS 447/Subclasses.md",
-    "EECS 447/Relationships.md",
     "EECS 468",
     "EECS 330",
     "KU Crew/Sports Club Officer Mettings",
