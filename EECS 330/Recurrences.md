@@ -40,4 +40,5 @@ Provides a "cookbook" method for solving algorithmic recurrences of the form whe
 
 Example:
 $$T(n) = 5T\left( \frac{n}{3} \right)+n^{1.5}\lg n$$
-watershed: $n^{\log_{3}5} = n^{1.46}$ compare to $n^{1.5}\lg n$ 
+watershed: $n^{\log_{3}5} = n^{1.46}$ compare to $n^{1.5}\lg n = n^{1.47}$
+$$n^{1.46} < n^{1.47}$$
