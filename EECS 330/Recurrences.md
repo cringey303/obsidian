@@ -37,3 +37,6 @@ Total # of leaves: $3^{height} = 3^{\log_{4}n} = n^{\log_{4}3}$
 Provides a "cookbook" method for solving algorithmic recurrences of the form where $( a>0,b>1)$ $$T(n)=aT\left( \frac{n}{b} \right)+f(n)$$Note: in general, $a$ and $b$ may not be equal
 ![[Screenshot 2026-02-02 at 10.48.47.png]]
 ![[Screenshot 2026-02-02 at 10.49.02.png]]
+
+Example:
+$$T(n) = 5
