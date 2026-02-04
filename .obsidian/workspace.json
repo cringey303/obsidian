@@ -67,14 +67,12 @@
             "id": "c030dcb30b24bf4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JavaScript Higher Order Array Methods.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-02-04 11.28.17.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "JavaScript Higher Order Array Methods"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-04 11.28.17.excalidraw"
             }
           }
         ],
@@ -213,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript Higher Order Array Methods.md",
+                "file": "Excalidraw/Drawing 2026-02-04 11.28.17.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript Higher Order Array Methods"
+              "title": "Outline of Drawing 2026-02-04 11.28.17.excalidraw"
             }
           },
           {
@@ -254,12 +252,15 @@
   },
   "active": "c030dcb30b24bf4b",
   "lastOpenFiles": [
-    "Screenshot 2026-02-04 at 11.06.58.png",
+    "EECS 468/JavaScript Higher Order Array Methods.md",
+    "Excalidraw/Drawing 2026-02-04 11.28.17.excalidraw.md",
+    "EECS 468/JavaScript Values, Types, and Operators.md",
     "EECS 468/!EECS 468 Programming Paradigms.md",
-    "JavaScript Higher Order Array Methods.md",
+    "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
+    "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
+    "Screenshots/Screenshot 2026-02-04 at 11.06.58.png",
     "EECS 330/Recurrences.md",
-    "Screenshot 2026-02-04 at 10.43.13.png",
-    "Screenshot 2026-02-04 at 10.31.22.png",
+    "Screenshots/Screenshot 2026-02-04 at 10.43.13.png",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 465/Reconnaissance.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
@@ -271,9 +272,7 @@
     "Screenshots/Screenshot 2026-02-03 at 13.05.07.png",
     "Screenshots/Screenshot 2026-02-03 at 12.59.29.png",
     "EECS 447/HW1.md",
-    "Screenshots/Screenshot 2026-02-02 at 20.27.25.png",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
-    "Screenshots/Screenshot 2026-02-02 at 20.27.52.png",
     "EECS 447/Design Principles.md",
     "EECS 447/DBMS History.md",
     "Excalidraw/4.4.4b.md",
@@ -289,7 +288,6 @@
     "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
     "Excalidraw/Beer-DrinkerER.md",
     "Excalidraw/4.1 BankER 1.md",
-    "EECS 465/29JAN26.md",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
