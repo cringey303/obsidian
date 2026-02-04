@@ -42,6 +42,6 @@ Example:
 $$T(n) = 5T\left( \frac{n}{3} \right)+n^{1.5}\lg n$$
 watershed: $n^{\log_{3}5} = n^{1.46}$ compare to $n^{1.5}\lg n = n^{1.47}$
 $$n^{1.46} < n^{1.47}$$
-### D&C Algorithm
+### Recurrence of Algorithms
 ![[Screenshot 2026-02-04 at 10.31.22.png|600]]
-recurrence of binary search
+![[Screenshot 2026-02-04 at 10.43.13.png|600]]
