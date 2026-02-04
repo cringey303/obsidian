@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 468/JavaScript Higher Order Array Methods.md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Higher Order Array Methods"
+              "title": "!EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 468/JavaScript Higher Order Array Methods.md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript Higher Order Array Methods"
+              "title": "Outline of !EECS 330 Data Structures and Algorithms"
             }
           },
           {
@@ -266,11 +266,12 @@
   },
   "active": "1a9563d5443ad522",
   "lastOpenFiles": [
+    "EECS 468/JavaScript Higher Order Array Methods.md",
     "EECS 468/!EECS 468 Programming Paradigms.md",
+    "EECS 468/JavaScript Values, Types, and Operators.md",
+    "Screenshots/Screenshot 2026-02-04 at 11.32.58.png",
     "Excalidraw/JavaScript Arrays 2.md",
     "Excalidraw/JavaScript Arrays.md",
-    "EECS 468/JavaScript Higher Order Array Methods.md",
-    "EECS 468/JavaScript Values, Types, and Operators.md",
     "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
     "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
     "Screenshots/Screenshot 2026-02-04 at 11.06.58.png",
@@ -285,7 +286,6 @@
     "Screenshots/Screenshot 2026-02-03 at 13.15.11.png",
     "Screenshots/Screenshot 2026-02-03 at 13.05.57.png",
     "Screenshots/Screenshot 2026-02-03 at 13.05.07.png",
-    "Screenshots/Screenshot 2026-02-03 at 12.59.29.png",
     "EECS 447/HW1.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 447/Design Principles.md",
@@ -301,7 +301,6 @@
     "Excalidraw/4.4.4a.md",
     "EECS 447/Weak Entity Sets.md",
     "Excalidraw/Drawing 2026-02-02 20.26.09.excalidraw.md",
-    "Excalidraw/Beer-DrinkerER.md",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
