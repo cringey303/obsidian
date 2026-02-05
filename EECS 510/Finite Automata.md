@@ -8,7 +8,7 @@ Example:
 	- a: advances to the next state
 	- b: stays on the same state
 - therefore, any set with 3 or more $a$s will be part of the language
-Any set that is part of the language is called a regular set
+Any set that is part of the language is called a [[Regular Sets]]
 
 Example:
 *We want to accept strings only of the form $xaaay$ where there are 3 $a$s consecutively and $x$ and $y$ can be any character*
