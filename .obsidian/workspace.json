@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 447/Logical Design.md",
+                "file": "EECS 465/Reconnaissance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logical Design"
+              "title": "Reconnaissance"
             }
           }
         ],
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 447/Logical Design.md",
+                "file": "EECS 465/Reconnaissance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logical Design"
+              "title": "Outline of Reconnaissance"
             }
           }
         ],
@@ -285,6 +285,8 @@
   },
   "active": "d1ca437d018a70ea",
   "lastOpenFiles": [
+    "EECS 465/!EECS 465 Cyber Defense.md",
+    "EECS 447/Logical Design.md",
     "Screenshot 2026-02-05 at 12.56.45.png",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 330/Recurrences.md",
@@ -294,7 +296,6 @@
     "regular set.md",
     "EECS 510/union rules.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
-    "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 465/Kernel and OS Basics.md",
     "EECS 465/Course Info.md",
     "kaitlyn.md",
@@ -311,11 +312,9 @@
     "Screenshots/Screenshot 2026-02-04 at 10.43.13.png",
     "EECS 465/Reconnaissance.md",
     "Screenshots/Screenshot 2026-02-03 at 13.06.31.png",
-    "EECS 447/Logical Design.md",
     "Screenshots/Screenshot 2026-02-03 at 13.15.27.png",
     "Screenshots/Screenshot 2026-02-03 at 13.15.11.png",
     "Screenshots/Screenshot 2026-02-03 at 13.05.57.png",
-    "Screenshots/Screenshot 2026-02-03 at 13.05.07.png",
     "EECS 447/HW1.md",
     "EECS 447/Design Principles.md",
     "EECS 447/DBMS History.md",
