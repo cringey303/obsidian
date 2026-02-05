@@ -116,9 +116,23 @@
               "icon": "lucide-file",
               "title": "Reconnaissance"
             }
+          },
+          {
+            "id": "e4831ecfd4b9a3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulnerability Assessment Tools (VAS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vulnerability Assessment Tools (VAS)"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -253,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 465/Reconnaissance.md",
+                "file": "Vulnerability Assessment Tools (VAS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reconnaissance"
+              "title": "Outline of Vulnerability Assessment Tools (VAS)"
             }
           }
         ],
@@ -283,8 +297,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1ca437d018a70ea",
+  "active": "e4831ecfd4b9a3ec",
   "lastOpenFiles": [
+    "EECS 465/Reconnaissance.md",
+    "Vulnerability Assessment Tools (VAS).md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 447/Logical Design.md",
     "Screenshot 2026-02-05 at 12.56.45.png",
@@ -310,7 +326,6 @@
     "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
     "Screenshots/Screenshot 2026-02-04 at 11.06.58.png",
     "Screenshots/Screenshot 2026-02-04 at 10.43.13.png",
-    "EECS 465/Reconnaissance.md",
     "Screenshots/Screenshot 2026-02-03 at 13.06.31.png",
     "Screenshots/Screenshot 2026-02-03 at 13.15.27.png",
     "Screenshots/Screenshot 2026-02-03 at 13.15.11.png",
