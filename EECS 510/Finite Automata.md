@@ -1,7 +1,10 @@
 5-tuple:
 $$M=<Q, \Sigma, δ, s, F>$$
 - $Q$: States
-- \Sigma
+- $\Sigma$: Alphabet (the characters the machine reads)
+- $\delta$: Transition function (the rules for moving between states)
+- $s$: Start state
+- $F$: Final/Accepting states
 
 Process each symbol step-by-step
 
