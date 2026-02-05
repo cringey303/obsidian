@@ -1,5 +1,8 @@
 5-tuple:
 $$M=<Q, \Sigma, δ, s, F>$$
+- $Q$: States
+- \Sigma
+
 Process each symbol step-by-step
 
 Example:
