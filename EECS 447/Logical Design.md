@@ -75,4 +75,6 @@
 - M:N relationship
 	- relationship relation
 - N-ary Relationships
-	- relatinship relation for sure
+	- relationship relation for sure
+		- connect however many keys into the same entity
+	- ![[Screenshot 2026-02-05 at 12.56.45.png]]
