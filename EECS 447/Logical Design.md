@@ -59,4 +59,6 @@
 - A candidate key is sometimes called a <span style="color:rgb(0, 176, 240)"><i>minimal superkey</i></span>
 - The set of all attributes is a superkey
 - If there's > 1 key for a relation, one of the keys is chosen (by DBA) to be the *primary key*
+
+### Foreign Keys, Referential Integrity
 - 
