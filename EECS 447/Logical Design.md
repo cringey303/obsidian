@@ -61,4 +61,7 @@
 - If there's > 1 key for a relation, one of the keys is chosen (by DBA) to be the *primary key*
 
 ### Foreign Keys, Referential Integrity
-- 
+
+### Translating entity sets
+- attributes -> columns
+- key attributes -> primary key
