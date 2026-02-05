@@ -93,10 +93,14 @@
             "id": "b360b90da37ed604",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EECS 465/!EECS 465 Cyber Defense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!EECS 465 Cyber Defense"
             }
           }
         ],
@@ -235,12 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "EECS 465/!EECS 465 Cyber Defense.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of !EECS 465 Cyber Defense"
             }
           },
           {
