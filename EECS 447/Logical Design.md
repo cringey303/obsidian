@@ -65,3 +65,9 @@
 ### Translating entity sets
 - attributes -> columns
 - key attributes -> primary key
+- 1:1 relationship
+	- usually combine into one entity (keep separate if not every of one entity owns one of the other entity)
+	- mapping 1:1 using relation
+		- take primary key from each entity
+- 1:N relationship
+	- can 
