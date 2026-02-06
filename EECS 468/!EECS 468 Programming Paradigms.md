@@ -4,3 +4,4 @@
 [[JavaScript Program Structure]]
 [[JavaScript Functions]]
 [[JavaScript Higher Order Array Methods]]
+[[JavaScript Objects]]

@@ -7,3 +7,4 @@
 [[Kernel and OS Basics]]
 [[Linux Command Line Basics]]
 [[Reconnaissance]]
+[[Vulnerability Assessment Tools (VAS)]]
