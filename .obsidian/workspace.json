@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerability Assessment Tools (VAS).md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnerability Assessment Tools (VAS)"
+              "title": "!EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -267,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerability Assessment Tools (VAS).md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vulnerability Assessment Tools (VAS)"
+              "title": "Outline of !EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -299,14 +299,14 @@
   },
   "active": "e4831ecfd4b9a3ec",
   "lastOpenFiles": [
-    "EECS 465/Reconnaissance.md",
+    "EECS 330/Recurrences.md",
+    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "Vulnerability Assessment Tools (VAS).md",
+    "EECS 465/Reconnaissance.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 447/Logical Design.md",
     "Screenshot 2026-02-05 at 12.56.45.png",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
-    "EECS 330/Recurrences.md",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 510/Regular Sets.md",
     "EECS 510/Finite Automata.md",
     "regular set.md",
