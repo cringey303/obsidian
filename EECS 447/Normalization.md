@@ -23,3 +23,8 @@ Functional dependencies:
 - X → Y means that whenever two tuples in R agree on all attributes in X, they must also agree on all attributes in Y
 	- example: SID → name, account; CID → Cname, location
 - Trivial FD: $X→Y$ is trivial if Y is a subset of X
+
+### Rules of FDs
+- Armstrong’s axioms
+	- Reflexivity: if Y is a subset of X, then X → Y
+	- Augmentation: if X → Y, then XZ → YZ for any
