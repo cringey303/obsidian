@@ -16,4 +16,4 @@ Professor: Bo Luo
 
 ---
 ### HW
-[[HW1]]
+[[EECS 447/HW1]]
