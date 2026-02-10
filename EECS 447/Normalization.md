@@ -45,4 +45,4 @@ Functional dependencies:
 ### Second Normal Form
 - in first normal form
 - every non-prime attribute is fully dependent on a candidate key
-	- 
+	- an attribute is prime if it is a member of any candidate key
