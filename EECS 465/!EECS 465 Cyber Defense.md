@@ -12,3 +12,9 @@
 ---
 ### HW
 [[EECS 465/HW1|HW1]]
+[HW1 instructions](https://www.ittc.ku.edu/~alexbardas/eecs465/materials/assignments/hw1/hw1.html)
+- use UbuntuDesktop24
+- when saving a host image:
+	- change the password on the OS
+	- use encrypt the image in clonezilla
+	- 
