@@ -46,3 +46,11 @@ Functional dependencies:
 - in first normal form
 - every non-prime attribute is fully dependent on a candidate key
 	- an attribute is prime if it is a member of any candidate key
+
+### Third Normal Form
+- in 2NF
+- every non-prime attribute is non-transitively dependent on a candidate key
+- transitive dependency
+	- A→B, B is not a candidate key
+	- B→C
+	- C is transitively dependent on A
