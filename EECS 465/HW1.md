@@ -10,7 +10,8 @@ Virtual Machine Software
 	- VMWare ESXi
 	- Microsoft Hyper-V
 - Hosted hypervisors
-	-  VirtualBox
+	- VMWare Workstation/Player/Fusion 
+	- VirtualBox
 - We will be using VirtualBox
 	- runs on Windows, MacOS, and many Linux distributions
 	- Open-source, managed by Oracle
