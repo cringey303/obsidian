@@ -12,6 +12,7 @@ Professor: Bo Luo
 [[Subclasses]]
 [[Weak Entity Sets]]
 [[Logical Design]]
+[[Normalization]]
 
 ---
 ### HW

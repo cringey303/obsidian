@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 468/JavaScript Objects.md",
+                "file": "EECS 447/Normalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Objects"
+              "title": "Normalization"
             }
           }
         ],
@@ -267,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 468/JavaScript Objects.md",
+                "file": "EECS 447/Normalization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript Objects"
+              "title": "Outline of Normalization"
             }
           }
         ],
@@ -299,20 +299,21 @@
   },
   "active": "e4831ecfd4b9a3ec",
   "lastOpenFiles": [
-    "EECS 468/The Secret Life of JavaScript Objects.md",
+    "EECS 447/!EECS 447 Intro to Database Systems.md",
+    "EECS 447/Normalization.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
+    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+    "EECS 468/JavaScript Objects.md",
+    "EECS 468/The Secret Life of JavaScript Objects.md",
     "EECS 465/Vulnerability Assessment Tools (VAS).md",
     "Screenshots/Screenshot 2026-02-06 at 11.04.10.png",
-    "EECS 468/JavaScript Objects.md",
     "EECS 468/JavaScript Higher Order Array Methods.md",
     "EECS 468/!EECS 468 Programming Paradigms.md",
     "EECS 330/Asymptotic Notation.md",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 330/Recurrences.md",
     "EECS 465/Reconnaissance.md",
     "EECS 447/Logical Design.md",
     "Screenshots/Screenshot 2026-02-05 at 12.56.45.png",
-    "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 510/Regular Sets.md",
     "EECS 510/Finite Automata.md",
     "regular set.md",
@@ -334,7 +335,6 @@
     "Screenshots/Screenshot 2026-02-03 at 13.15.27.png",
     "Screenshots/Screenshot 2026-02-03 at 13.15.11.png",
     "EECS 447/HW1.md",
-    "EECS 447/Design Principles.md",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
