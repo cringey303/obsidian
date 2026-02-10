@@ -66,4 +66,12 @@ Functional dependencies:
 - 3NF but not BCNF
 	- exist a non-trivial FD X→Y, X is not a super key, and Y is a subset of a candidate key
 		- YZ → A (any attribute)
-		- X → Y, there
+		- X → Y, therefore: XZ → YZ
+		- XZ → YZ → A
+		- XZ is also a candidate key
+- example of 3NF but not BCNF
+	- in a relation r(Z, X, Y) where ZX and XY are candidate keys
+	- If we also have X → Y
+	- 3NF: Yes
+	- BCNF: No
+		- because X is not a superkey
