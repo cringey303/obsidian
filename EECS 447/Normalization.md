@@ -14,3 +14,5 @@ Redundancy:
 
 instead, have 3 tables: class, student, and relationship relation table
 
+unnecessary decomposition: separating into different tables when unnecessary![[Screenshot 2026-02-10 at 12.53.39.png]]
+
