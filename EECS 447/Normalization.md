@@ -39,4 +39,10 @@ Functional dependencies:
 - A primary key is enforced
 	- no duplicate rows
 	- rows are identified by primary key
-	- columns 
+	- columns are identified by attribute name
+	- values are accessed by identifying primary key of the tuple and the attribute name
+
+### Second Normal Form
+- in first normal form
+- every non-prime attribute is fully dependent on a candidate key
+	- 
