@@ -27,4 +27,16 @@ Functional dependencies:
 ### Rules of FDs
 - Armstrong’s axioms
 	- Reflexivity: if Y is a subset of X, then X → Y
-	- Augmentation: if X → Y, then XZ → YZ for any
+	- Augmentation: if X → Y, then XZ → YZ for any Z
+	- Transitivity: if X → Y and Y → Z, then X → Z
+- Rules derived from axioms
+	- Splitting: if X → YZ, then X → Y and X → Z
+	- Combining: if X → Y and X → Z, then X → YZ
+
+### First Normal Form
+- It’s a table
+	- every row-and-column intersection contains exactly one atomic value from the applicable domain
+- A primary key is enforced
+	- no duplicate rows
+	- rows are identified by primary key
+	- columns 
