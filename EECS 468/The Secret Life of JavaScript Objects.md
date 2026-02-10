@@ -8,5 +8,10 @@ class Rabbit {
 	}
 }
 
-let
+Rabbit.prototype.speak = function(line) {
+	console.log(`The rabbit of type ${this.type} says '${line}'`);
+};
+
+let killerRabbit = new Rabbit("killer");
+killerRabbit.speak("Hello World!");
 ```
