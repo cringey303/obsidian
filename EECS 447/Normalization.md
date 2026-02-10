@@ -22,4 +22,4 @@ Functional dependencies:
 - a FD has the form X→Y, where X and Y are sets of attributes in a relation R
 - X → Y means that whenever two tuples in R agree on all attributes in X, they must also agree on all attributes in Y
 	- example: SID → name, account; CID → Cname, location
-	- 
+- Trivial FD: $X→Y$ is trivial if Y is a subset of X
