@@ -54,3 +54,16 @@ Functional dependencies:
 	- A→B, B is not a candidate key
 	- B→C
 	- C is transitively dependent on A
+
+### Boyce-Codd Normal Form (BCNF)
+- A relation R is in BCNF if
+	- for every non-trivial FD X→Y in R, X is a superkey
+	- That is, all non-trivial FDs follow form “key → other attributes”
+- Or
+	- a relation R is in BCNF iff every non-trivial determinant is a candidate key
+
+**3NF vs. BCNF**
+- 3NF but not BCNF
+	- exist a non-trivial FD X→Y, X is not a super key, and Y is a subset of a candidate key
+		- YZ → A (any attribute)
+		- X → Y, there
