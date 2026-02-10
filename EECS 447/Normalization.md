@@ -11,3 +11,6 @@ Topics
 
 Redundancy:
 ![[Screenshot 2026-02-10 at 12.40.58.png]]
+
+instead, have 3 tables: class, student, and relationship relation table
+
