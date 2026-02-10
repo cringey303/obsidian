@@ -4,3 +4,13 @@
 	- type 1: “Bare metal” - installed directly on top of hardware
 	- type 2: “Hosted” - installed as an application in an operating system
 		- e.g. virtualbox, fusion
+
+Virtual Machine Software
+- bare metal hypervisors
+	- VMWare ESXi
+	- Microsoft Hyper-V
+- Hosted hypervisors
+	-  VirtualBox
+- We will be using VirtualBox
+	- runs on Windows, MacOS, and many Linux distributions
+	- Open-source, managed by Oracle
