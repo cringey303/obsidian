@@ -8,49 +8,71 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93fb9d120f8607d8",
+            "id": "50219d111e427687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 447/HW1.md",
+                "file": "EECS 465/27JAN26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW1"
+              "title": "27JAN26"
             }
           },
           {
-            "id": "0360ef9f985ad0ea",
+            "id": "b04b620f7712d7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 447/!EECS 447 Intro to Database Systems.md",
+                "file": "EECS 465/29JAN26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!EECS 447 Intro to Database Systems"
+              "title": "29JAN26"
             }
           },
           {
-            "id": "21329496059f3212",
+            "id": "ca3956fc4677adc9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "dc2f5d50f569a7a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 465/!EECS 465 Cyber Defense.md",
+                "file": "EECS 468/The Secret Life of JavaScript Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!EECS 465 Cyber Defense"
+              "title": "The Secret Life of JavaScript Objects"
             }
           },
           {
-            "id": "5b9a8d5aa3e545fb",
+            "id": "514df7e817afb929",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "e5f560b6e82c4ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,91 +84,9 @@
               "icon": "lucide-file",
               "title": "!EECS 468 Programming Paradigms"
             }
-          },
-          {
-            "id": "c030dcb30b24bf4b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/JavaScript Arrays.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "JavaScript Arrays"
-            }
-          },
-          {
-            "id": "1a9563d5443ad522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS 510/!EECS 510 Theory of Computing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!EECS 510 Theory of Computing"
-            }
-          },
-          {
-            "id": "b360b90da37ed604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS 510/Finite Automata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finite Automata"
-            }
-          },
-          {
-            "id": "d1ca437d018a70ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS 465/Reconnaissance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reconnaissance"
-            }
-          },
-          {
-            "id": "e4831ecfd4b9a3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS 465/!EECS 465 Cyber Defense.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!EECS 465 Cyber Defense"
-            }
-          },
-          {
-            "id": "f7973ec68b608f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS 465/!EECS 465 Cyber Defense.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!EECS 465 Cyber Defense"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,22 +221,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 465/!EECS 465 Cyber Defense.md",
+                "file": "EECS 468/JavaScript Values, Types, and Operators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !EECS 465 Cyber Defense"
+              "title": "Outline of JavaScript Values, Types, and Operators"
+            }
+          },
+          {
+            "id": "83f1bb6ac73a1060",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,56 +260,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7973ec68b608f18",
+  "active": "e5f560b6e82c4ed5",
   "lastOpenFiles": [
-    "EECS 465/HW1.md",
-    "EECS 465/!EECS 465 Cyber Defense.md",
-    "EECS 447/HW1.md",
-    "EECS 447/Normalization.md",
-    "EECS 447/Logical Design.md",
-    "EECS 447/Relationships.md",
-    "Screenshots/Screenshot 2026-02-10 at 12.54.49.png",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
-    "Screenshots/Screenshot 2026-02-10 at 12.40.58.png",
+    "conflict-files-obsidian-git.md",
+    "Screenshots/Screenshot 2026-02-10 at 12.54.49.png",
     "Screenshots/Screenshot 2026-02-10 at 12.53.39.png",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
-    "EECS 468/JavaScript Objects.md",
-    "EECS 468/The Secret Life of JavaScript Objects.md",
-    "EECS 465/Vulnerability Assessment Tools (VAS).md",
-    "Screenshots/Screenshot 2026-02-06 at 11.04.10.png",
-    "EECS 468/JavaScript Higher Order Array Methods.md",
+    "Screenshots/Screenshot 2026-02-10 at 12.40.58.png",
+    "EECS 465/HW1.md",
+    "EECS 447/Normalization.md",
+    "EECS 468/The Secret Life of JavaScript Objects.pdf",
     "EECS 468/!EECS 468 Programming Paradigms.md",
-    "EECS 330/Asymptotic Notation.md",
-    "EECS 330/Recurrences.md",
+    "EECS 468/The Secret Life of JavaScript Objects.md",
     "EECS 465/Reconnaissance.md",
+    "Screenshots/Screenshot 2026-02-06 at 11.04.10.png",
     "Screenshots/Screenshot 2026-02-05 at 12.56.45.png",
-    "EECS 510/Regular Sets.md",
-    "EECS 510/Finite Automata.md",
-    "regular set.md",
-    "EECS 510/union rules.md",
-    "EECS 510/!EECS 510 Theory of Computing.md",
-    "EECS 465/Kernel and OS Basics.md",
-    "EECS 465/Course Info.md",
-    "kaitlyn.md",
-    "lucas.md",
-    "EECS 468/JavaScript Values, Types, and Operators.md",
     "Screenshots/Screenshot 2026-02-04 at 11.32.58.png",
-    "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
     "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
     "Screenshots/Screenshot 2026-02-04 at 11.06.58.png",
     "Screenshots/Screenshot 2026-02-04 at 10.43.13.png",
-    "Untitled.canvas",
+    "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
+    "Excalidraw/JavaScript Arrays.md",
+    "Excalidraw/JavaScript Arrays 2.md",
+    "EECS 510/Regular Sets.md",
+    "EECS 468/JavaScript Objects.md",
+    "EECS 468/JavaScript Higher Order Array Methods.md",
+    "EECS 465/Vulnerability Assessment Tools (VAS).md",
+    "EECS 465/!EECS 465 Cyber Defense.md",
+    "EECS 465/Linux Command Line Basics.md",
+    "EECS 465/Kernel and OS Basics.md",
     "Screenshots",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
+    "Excalidraw/FiniteAutomataEg.md",
+    "Excalidraw/4.4.4b.md",
+    "Excalidraw/4.4.4a.md",
+    "Excalidraw/4.1.2cd.md",
+    "Excalidraw/4.1.2ab.md",
+    "Excalidraw/4.1.1.md",
+    "EECS 510/Finite Automata.md",
+    "EECS 510/!EECS 510 Theory of Computing.md",
+    "EECS 468/JavaScript Functions.md",
+    "EECS 447/Logical Design.md",
+    "Untitled.canvas",
     "EECS 468",
+    "Untitled",
     "EECS 330",
     "KU Crew/Sports Club Officer Mettings",
     "KU Crew",
     "EECS 465",
     "Excalidraw",
-    "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
-    "Ink/Drawing",
-    "Ink"
+    "Ink/Drawing/2026.1.27 - 13.28pm.drawing"
   ]
 }
