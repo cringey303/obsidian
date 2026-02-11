@@ -6,3 +6,4 @@
 [[JavaScript Higher Order Array Methods]]
 [[JavaScript Objects]]
 [[The Secret Life of JavaScript Objects]]
+[[JavaScript Bugs and Errors]]
