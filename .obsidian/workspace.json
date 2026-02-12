@@ -149,12 +149,14 @@
             "id": "bb732bdf0b4da6cb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-12 08.23.05.excalidraw.md"
+                "file": "EECS 510/Non-deterministic Finite Automata.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-12 08.23.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Non-deterministic Finite Automata"
             }
           }
         ],
@@ -293,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-12 08.23.05.excalidraw.md",
+                "file": "EECS 510/Non-deterministic Finite Automata.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-12 08.23.05.excalidraw"
+              "title": "Outline of Non-deterministic Finite Automata"
             }
           }
         ],
@@ -325,10 +327,10 @@
   },
   "active": "bb732bdf0b4da6cb",
   "lastOpenFiles": [
-    "EECS 510/Non-deterministic Finite Automata.md",
-    "Excalidraw/Drawing 2026-02-12 08.23.05.excalidraw.md",
-    "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/Finite Automata.md",
+    "EECS 510/Non-deterministic Finite Automata.md",
+    "Excalidraw/NFA.md",
+    "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 468/JavaScript Bugs and Errors.md",
     "EECS 465/HW1.md",
