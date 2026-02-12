@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 510/Non-deterministic Finite Automata.md",
+                "file": "HTB/Structure of InfoSec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-deterministic Finite Automata"
+              "title": "Structure of InfoSec"
             }
           }
         ],
@@ -309,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 510/Non-deterministic Finite Automata.md",
+                "file": "HTB/Structure of InfoSec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Non-deterministic Finite Automata"
+              "title": "Outline of Structure of InfoSec"
             }
           }
         ],
@@ -341,9 +341,9 @@
   },
   "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "EECS 510/Non-deterministic Finite Automata.md",
     "HTB/Structure of InfoSec.md",
     "HTB/Junior Cybersecurity Analyst.md",
-    "EECS 510/Non-deterministic Finite Automata.md",
     "HTB",
     "Excalidraw/NFA.md",
     "EECS 510/Finite Automata.md",

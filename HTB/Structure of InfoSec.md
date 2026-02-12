@@ -8,3 +8,10 @@
 - `Red Team`: This team simulates an actual adversary/attack on the company.
 - `Purple Team`: This team consists of both Blue Team and Red Team members working together to enhance the company's security.
 
+
+- Linux, Windows, MacOS
+- Nmap: Network scanning and discovery
+- Wireshark: Network protocol analysis
+- Metasploit: Exploitation framework
+- Burp Suite: Web application security testing
+- John the Ripper: Password cracking
