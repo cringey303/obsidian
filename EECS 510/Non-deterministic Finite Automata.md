@@ -10,3 +10,7 @@ F: Final states
 A = $\{x \in {0,1}*| 5th \text{ from right is }1\}$
 $0010110 \in A$ , $100110 \not\in A$
 
+in this case:
+Q: $\{ A,B,C,D,E,F\}$
+$\Sigma$ = $\{0,1\}$
+$\delta$
