@@ -19,4 +19,5 @@ $\Sigma$ = $\{0,1\}$
 $S = \{A\}$
 $F = \{F\}$
 
-NFA goes through all possible outputs. If final state is in the set of outputs, then, the machine will accept that input. 
+NFA goes through all possible outputs. If final state is in the set of outputs, then, the machine will accept that input.
+For 100110, since when the machine reaches the last 0 one of its states is at F already, that F will just be discarded.
