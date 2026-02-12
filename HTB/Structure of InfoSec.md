@@ -1,0 +1,1 @@
+![Network diagram showing applications, servers, cloud, internet, and client connections. Includes employees, mobile, company, and teams: Blue, Red, and Purple.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/293/InfoSec.png)

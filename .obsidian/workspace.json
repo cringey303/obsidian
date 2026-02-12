@@ -158,9 +158,23 @@
               "icon": "lucide-file",
               "title": "Non-deterministic Finite Automata"
             }
+          },
+          {
+            "id": "70d0b67e6894e49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Structure of InfoSec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure of InfoSec"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -295,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 510/Non-deterministic Finite Automata.md",
+                "file": "HTB/Structure of InfoSec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Non-deterministic Finite Automata"
+              "title": "Outline of Structure of InfoSec"
             }
           }
         ],
@@ -325,10 +339,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb732bdf0b4da6cb",
+  "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
-    "Excalidraw/NFA.md",
+    "HTB/Junior Cybersecurity Analyst.md",
+    "HTB/Structure of InfoSec.md",
     "EECS 510/Non-deterministic Finite Automata.md",
+    "HTB",
+    "Excalidraw/NFA.md",
     "EECS 510/Finite Automata.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
@@ -356,8 +373,6 @@
     "EECS 510/Regular Sets.md",
     "regular set.md",
     "EECS 510/union rules.md",
-    "EECS 465/Kernel and OS Basics.md",
-    "EECS 465/Course Info.md",
     "Screenshots/Screenshot 2026-02-04 at 11.32.58.png",
     "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
     "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
@@ -374,7 +389,6 @@
     "EECS 465",
     "Excalidraw",
     "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
-    "Ink/Drawing",
-    "Ink"
+    "Ink/Drawing"
   ]
 }
