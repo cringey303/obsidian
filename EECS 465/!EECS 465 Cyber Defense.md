@@ -8,6 +8,7 @@
 [[Linux Command Line Basics]]
 [[Reconnaissance]]
 [[Vulnerability Assessment Tools (VAS)]]
+[[Metasploit]]
 
 ---
 ### HW
