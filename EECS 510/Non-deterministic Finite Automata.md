@@ -19,4 +19,4 @@ $\Sigma$ = $\{0,1\}$
 $S = \{A\}$
 $F = \{F\}$
 
-e
+NFA goes through all possible outputs. If final state is in the set of outputs, then, the machine will accept that input. 
