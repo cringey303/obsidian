@@ -1,6 +1,6 @@
 1. write as heap
 2. build-max-heap
-	1. convert an array to a max-heap by calling 
+	1. convert an array to a max-heap by calling max-heapify in a bottom-up manner
 3. swap top element with lowest element
 4. discard largest element from the heap
  5. max heapify
