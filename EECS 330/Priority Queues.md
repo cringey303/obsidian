@@ -19,4 +19,4 @@
 
 **Insert** operation
 - insert an element $x$ with key $k$ to set $S$.
-- 
+- running time: $O(\lg n)$ since max-heap-increase takes $O(\lg n)$
