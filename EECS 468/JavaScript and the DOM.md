@@ -1,4 +1,4 @@
 1. ![[Screenshot 2026-02-13 at 11.14.02.png]]
-2. ![[JS and the Dom]]
-3. ![[JS and the DOM 2]]
+2. ![[JS and the Dom|200]]
+3. ![[JS and the DOM 2|200]]
 4. Only changing changeText():![[Screenshot 2026-02-13 at 11.24.15.png]]
