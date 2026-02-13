@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/Priority Queues.md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priority Queues"
+              "title": "!EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "50318f50444395ed",
@@ -309,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 330/Priority Queues.md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Priority Queues"
+              "title": "Outline of !EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -341,14 +342,14 @@
   },
   "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "EECS 330/HeapSort.md",
+    "EECS 330/Priority Queues.md",
     "Screenshot 2026-02-13 at 10.40.33.png",
     "Screenshot 2026-02-13 at 10.40.14.png",
     "Screenshot 2026-02-13 at 10.32.57.png",
     "Screenshot 2026-02-13 at 10.31.45.png",
     "Screenshot 2026-02-13 at 10.28.37.png",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
-    "EECS 330/Priority Queues.md",
-    "EECS 330/HeapSort.md",
     "EECS 465/Metasploit.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "HTB/Structure of InfoSec.md",
@@ -377,7 +378,6 @@
     "EECS 330/Asymptotic Notation.md",
     "EECS 330/Recurrences.md",
     "Screenshots/Screenshot 2026-02-05 at 12.56.45.png",
-    "Screenshots/Screenshot 2026-02-04 at 11.32.58.png",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
