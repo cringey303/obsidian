@@ -6,4 +6,4 @@
 	- $Increase-Key(S,x,k)$: increases value of element $x$’s key to $k$. Assumes $k\geq x$’s current key value
 
 **Maximum** operation
-- M
+- Max-heap-maximum implements the MAXIMUM(S) operation, which returns the element of set S with te largest key, i.e., the first element of the heap A[1].
