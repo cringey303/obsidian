@@ -172,9 +172,21 @@
               "icon": "lucide-file",
               "title": "JavaScript and the DOM"
             }
+          },
+          {
+            "id": "80cd323b954ac2ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JS and the Dom.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "JS and the Dom"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -310,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 468/JavaScript and the DOM.md",
+                "file": "Excalidraw/JS and the Dom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript and the DOM"
+              "title": "Outline of JS and the Dom"
             }
           }
         ],
@@ -340,11 +352,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70d0b67e6894e49e",
+  "active": "80cd323b954ac2ee",
   "lastOpenFiles": [
+    "EECS 468/JavaScript and the DOM.md",
+    "Excalidraw/JS and the Dom.md",
     "Screenshot 2026-02-13 at 11.14.02.png",
     "EECS 468/!EECS 468 Programming Paradigms.md",
-    "EECS 468/JavaScript and the DOM.md",
     "Screenshots/Screenshot 2026-02-13 at 10.28.37.png",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 330/HeapSort.md",
@@ -378,7 +391,6 @@
     "Screenshots/Screenshot 2026-02-06 at 11.04.10.png",
     "EECS 468/JavaScript Higher Order Array Methods.md",
     "EECS 330/Asymptotic Notation.md",
-    "Screenshots/Screenshot 2026-02-05 at 12.56.45.png",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
