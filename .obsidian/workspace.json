@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+                "file": "EECS 468/!EECS 468 Programming Paradigms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!EECS 330 Data Structures and Algorithms"
+              "title": "!EECS 468 Programming Paradigms"
             }
           }
         ],
@@ -309,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+                "file": "EECS 468/!EECS 468 Programming Paradigms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !EECS 330 Data Structures and Algorithms"
+              "title": "Outline of !EECS 468 Programming Paradigms"
             }
           }
         ],
@@ -341,14 +341,14 @@
   },
   "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "Screenshots/Screenshot 2026-02-13 at 10.28.37.png",
+    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 330/HeapSort.md",
     "EECS 330/Priority Queues.md",
-    "Screenshot 2026-02-13 at 10.40.33.png",
-    "Screenshot 2026-02-13 at 10.40.14.png",
-    "Screenshot 2026-02-13 at 10.32.57.png",
-    "Screenshot 2026-02-13 at 10.31.45.png",
-    "Screenshot 2026-02-13 at 10.28.37.png",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+    "Screenshots/Screenshot 2026-02-13 at 10.40.33.png",
+    "Screenshots/Screenshot 2026-02-13 at 10.40.14.png",
+    "Screenshots/Screenshot 2026-02-13 at 10.32.57.png",
+    "Screenshots/Screenshot 2026-02-13 at 10.31.45.png",
     "EECS 465/Metasploit.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "HTB/Structure of InfoSec.md",
