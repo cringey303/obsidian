@@ -9,4 +9,5 @@
 - Max-heap-maximum implements the MAXIMUM(S) operation, which returns the element of set S with te largest key, i.e., the first element of the heap A[1].
 - Running time: $\Theta(1)$![[Screenshot 2026-02-13 at 10.28.37.png]]
 
-**Extract
+**Extract-Max** operation
+- Max-heap-extract-max extra
