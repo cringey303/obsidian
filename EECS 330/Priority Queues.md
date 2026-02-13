@@ -19,4 +19,8 @@
 
 **Insert** operation
 - insert an element $x$ with key $k$ to set $S$.
-- running time: $O(\lg n)$ since max-heap-increase takes $O(\lg n)$
+- running time: $O(\lg n)$ since max-heap-increase takes $O(\lg n)$![[Screenshot 2026-02-13 at 10.40.14.png]]
+
+
+# Priority queue summary: everything $O(\lg n)$!!!
+![[Screenshot 2026-02-13 at 10.40.33.png]]
