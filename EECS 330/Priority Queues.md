@@ -2,4 +2,5 @@
 - A **max-priority queue** supports the following operations:
 	- $Insert(S,x,k)$: inserts element $x$ with key $k$ into set $S$.
 	- $Maximum(S)$: returns element of $S$ with largest key
-	- $Extract-Max(S)$: removes and returns elee
+	- $Extract-Max(S)$: removes and returns element of $S$ with largest key.
+	- $Increase-Key(S,x,k)$: increases value of element $x$’s key to $k$. Assumes $k\geq x$
