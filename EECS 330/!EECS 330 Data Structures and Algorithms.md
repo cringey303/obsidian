@@ -6,6 +6,7 @@ Professor:
 [[Asymptotic Notation]]
 [[Recurrences]]
 [[HeapSort]]
+[[Priority Queues]]
 
 ---
 ### Labs
