@@ -1,4 +1,4 @@
-Professor: 
+Professor: Dr. Hongyang Sun
 [[Syllabus notes]]
 
 ---
