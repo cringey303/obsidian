@@ -1,3 +1,3 @@
 1. write as heap
-2. turn into max heap
-	1. swap 
+2. max heapify
+	1. recursive function assuming 
