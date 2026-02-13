@@ -12,12 +12,12 @@
 		</button>
 			<script>
 				function changeText(){
-				var element = document.getElementById("line1");
-				element.innerHTML = "Hello";
-				element = document.getElementById("line2");
-				element.innerHTML = "World!";
-}
-</script>
-</body>
+					var element = document.getElementById("line1");
+					element.innerHTML = "Hello";
+					element = document.getElementById("line2");
+					element.innerHTML = "World!";
+				}
+			</script>
+	</body>
 </html>
    ```
