@@ -15,4 +15,5 @@
 
 **Increase-Key** operation
 - increases value of element x’s key to a larger value k
-- 
+- Running time: $O(\lg n)$![[Screenshot 2026-02-13 at 10.32.57.png]]
+

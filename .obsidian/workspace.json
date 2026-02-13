@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "50318f50444395ed",
@@ -341,6 +342,7 @@
   },
   "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "Screenshot 2026-02-13 at 10.32.57.png",
     "Screenshot 2026-02-13 at 10.31.45.png",
     "Screenshot 2026-02-13 at 10.28.37.png",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
@@ -377,7 +379,6 @@
     "Screenshots/Screenshot 2026-02-04 at 11.32.58.png",
     "Screenshots/Screenshot 2026-02-04 at 10.31.22.png",
     "Screenshots/Screenshot 2026-02-04 at 11.26.00.png",
-    "Screenshots/Screenshot 2026-02-04 at 11.06.58.png",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
