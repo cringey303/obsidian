@@ -3,4 +3,7 @@
 	- $Insert(S,x,k)$: inserts element $x$ with key $k$ into set $S$.
 	- $Maximum(S)$: returns element of $S$ with largest key
 	- $Extract-Max(S)$: removes and returns element of $S$ with largest key.
-	- $Increase-Key(S,x,k)$: increases value of element $x$’s key to $k$. Assumes $k\geq x$
+	- $Increase-Key(S,x,k)$: increases value of element $x$’s key to $k$. Assumes $k\geq x$’s current key value
+
+**Maximum** operation
+- M
