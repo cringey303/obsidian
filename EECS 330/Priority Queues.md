@@ -1,3 +1,5 @@
 - Application of heap to use it as an efficient primary queue
 - A **max-priority queue** supports the following operations:
-	- $Insert(S,x,k)$: inserts element $x$ with key 
+	- $Insert(S,x,k)$: inserts element $x$ with key $k$ into set $S$.
+	- $Maximum(S)$: returns element of $S$ with largest key
+	- $Extract-Max(S)$: removes and returns elee
