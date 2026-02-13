@@ -7,3 +7,4 @@
 [[JavaScript Objects]]
 [[The Secret Life of JavaScript Objects]]
 [[JavaScript Bugs and Errors]]
+[[JavaScript and the DOM]]
