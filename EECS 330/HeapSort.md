@@ -5,6 +5,5 @@
 4. discard largest element from the heap
  5. max heapify
 	1. recursively swaps node with its largest child until it cannot be swapped anymore
-6. 
 
 heapsort on yt
