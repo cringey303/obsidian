@@ -5,6 +5,7 @@ Professor:
 ### Notes
 [[Asymptotic Notation]]
 [[Recurrences]]
+[[HeapSort]]
 
 ---
 ### Labs
