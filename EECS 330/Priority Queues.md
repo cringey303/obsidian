@@ -18,4 +18,5 @@
 - Running time: $O(\lg n)$![[Screenshot 2026-02-13 at 10.32.57.png]]
 
 **Insert** operation
-- insert an element $x$ with key 
+- insert an element $x$ with key $k$ to set $S$.
+- 
