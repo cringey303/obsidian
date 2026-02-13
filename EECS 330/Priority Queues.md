@@ -10,4 +10,5 @@
 - Running time: $\Theta(1)$![[Screenshot 2026-02-13 at 10.28.37.png]]
 
 **Extract-Max** operation
-- Max-heap-extract-max extra
+- Max-heap-extract-max removes and returns the max element in the heap
+- Running time: $O(lg_{}n)$
