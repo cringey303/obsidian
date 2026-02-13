@@ -11,4 +11,5 @@
 
 **Extract-Max** operation
 - Max-heap-extract-max removes and returns the max element in the heap
-- Running time: $O(lg_{}n)$
+- Running time: $O(\lg n)$, since Max-heapify takes $O(\lg n)$ time![[Screenshot 2026-02-13 at 10.31.45.png]]
+
