@@ -174,19 +174,19 @@
             }
           },
           {
-            "id": "80cd323b954ac2ee",
+            "id": "4dad7931ffddbd27",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/JS and the Dom.md"
+                "file": "Excalidraw/JS and the DOM 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "JS and the Dom"
+              "title": "JS and the DOM 2"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -243,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "50318f50444395ed",
@@ -322,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/JS and the Dom.md",
+                "file": "EECS 468/JavaScript and the DOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JS and the Dom"
+              "title": "Outline of JavaScript and the DOM"
             }
           }
         ],
@@ -352,11 +351,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "80cd323b954ac2ee",
+  "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "Excalidraw/JS and the DOM 2.md",
     "EECS 468/JavaScript and the DOM.md",
     "Excalidraw/JS and the Dom.md",
-    "Screenshot 2026-02-13 at 11.14.02.png",
+    "Screenshots/Screenshot 2026-02-13 at 11.14.02.png",
     "EECS 468/!EECS 468 Programming Paradigms.md",
     "Screenshots/Screenshot 2026-02-13 at 10.28.37.png",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
@@ -390,7 +390,6 @@
     "EECS 465/Vulnerability Assessment Tools (VAS).md",
     "Screenshots/Screenshot 2026-02-06 at 11.04.10.png",
     "EECS 468/JavaScript Higher Order Array Methods.md",
-    "EECS 330/Asymptotic Notation.md",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
