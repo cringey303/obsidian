@@ -1,1 +1,3 @@
-- Application of heap to use it as an effici
+- Application of heap to use it as an efficient primary queue
+- A **max-priority queue** supports the following operations:
+	- $Insert(S,x,k)$: inserts element $x$ with key 
