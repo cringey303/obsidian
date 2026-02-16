@@ -12,3 +12,6 @@
 	- disjoint sets
 	- graphs
 
+### Dynamic set operations
+- Operations can be grouped into two categories:
+	- Queries, which only return information
