@@ -15,3 +15,5 @@
 ### Dynamic set operations
 - Operations can be grouped into two categories:
 	- Queries, which only return information
+	- modifying operations, which change the set
+	- 
