@@ -9,4 +9,6 @@
 	- skip lists
 	- binary search trees
 	- hash tables
-	- disjoint t
+	- disjoint sets
+	- graphs
+
