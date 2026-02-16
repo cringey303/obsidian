@@ -7,6 +7,7 @@ Professor: Dr. Hongyang Sun
 [[Recurrences]]
 [[HeapSort]]
 [[Priority Queues]]
+[[Elementary Data Structures]]
 
 ---
 ### Labs
