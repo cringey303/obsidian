@@ -177,12 +177,14 @@
             "id": "7e3d73081f8a7d60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md"
+                "file": "EECS 447/Normalization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-17 13.06.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "Normalization"
             }
           },
           {
@@ -364,9 +366,11 @@
   },
   "active": "7e3d73081f8a7d60",
   "lastOpenFiles": [
-    "EECS 447/Normalization.md",
-    "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
+    "EECS 447/Weak Entity Sets.md",
+    "EECS 447/Subclasses.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
+    "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
+    "EECS 447/Normalization.md",
     "EECS 510/Deterministic Finite Automata.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/Non-deterministic Finite Automata.md",
@@ -398,8 +402,6 @@
     "EECS 468/JavaScript Bugs and Errors.md",
     "EECS 465/HW1.md",
     "EECS 447/HW1.md",
-    "EECS 447/Logical Design.md",
-    "EECS 447/Relationships.md",
     "Screenshots/Screenshot 2026-02-10 at 12.54.49.png",
     "Untitled.canvas",
     "Screenshots",
