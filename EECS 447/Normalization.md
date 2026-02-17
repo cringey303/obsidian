@@ -82,4 +82,5 @@ Functional dependencies:
 	- A non-trivial FD $X→Y$ in $R$ where $X$ is not a superkey of $R$
 3. “Grow” $Y$ to include all the attributes determined by $X$
 4. Decompose $R$ into $R_1$ and $R_{2}$, where
-	1. $R_1$ has attributes $$
+	1. $R_1$ has attributes $X \cup Y$
+	2. 
