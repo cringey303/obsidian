@@ -9,6 +9,7 @@
 [[Reconnaissance]]
 [[Vulnerability Assessment Tools (VAS)]]
 [[Metasploit]]
+[[Password Cracking]]
 
 ---
 ### HW
