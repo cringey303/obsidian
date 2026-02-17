@@ -86,4 +86,4 @@ Functional dependencies:
 	2. $R_2$ has attributes $X\cup Z$, where Z contains all attributes of R that are in neither X nor Y (i.e. $Z - attr(R)- X -Y$)
 
 
-![[Screenshot 2026-02-17 at 13.07.38.png|550]]
+![[Screenshot 2026-02-17 at 13.09.33.png|550]]
