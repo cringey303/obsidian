@@ -33,5 +33,10 @@ Professor: Bo Luo
 - **10% will be adopted from quizzes**
 - Sample test is online (shorter than real test)
 - format
-	- mc
-	- 
+	- Multiple choice
+	- T/F (with justification)
+	- ER design
+	- relational model
+	- ER to relations
+	- normalization
+	- other short answer
