@@ -174,6 +174,18 @@
             }
           },
           {
+            "id": "7e3d73081f8a7d60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-17 13.06.25.excalidraw"
+            }
+          },
+          {
             "id": "4dad7931ffddbd27",
             "type": "leaf",
             "state": {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -350,8 +362,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70d0b67e6894e49e",
+  "active": "7e3d73081f8a7d60",
   "lastOpenFiles": [
+    "EECS 447/Normalization.md",
+    "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 510/Deterministic Finite Automata.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
@@ -384,11 +398,9 @@
     "EECS 468/JavaScript Bugs and Errors.md",
     "EECS 465/HW1.md",
     "EECS 447/HW1.md",
-    "EECS 447/Normalization.md",
     "EECS 447/Logical Design.md",
     "EECS 447/Relationships.md",
     "Screenshots/Screenshot 2026-02-10 at 12.54.49.png",
-    "EECS 468/JavaScript Objects.md",
     "Untitled.canvas",
     "Screenshots",
     "Untitled 1.canvas",
