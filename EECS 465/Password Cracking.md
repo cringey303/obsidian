@@ -10,4 +10,9 @@
 
 ### Hashing vs Encryption
 Hashing:
-- same size
+- same size hash always, no matter the input size
+- not preserving content
+
+Encryption:
+- size
+- preserving input size
