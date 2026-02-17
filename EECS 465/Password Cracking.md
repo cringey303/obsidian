@@ -14,5 +14,5 @@ Hashing:
 - not preserving content
 
 Encryption:
-- size
-- preserving input size
+- size depends on input size
+- preserving input and content
