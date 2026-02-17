@@ -83,4 +83,4 @@ Functional dependencies:
 3. “Grow” $Y$ to include all the attributes determined by $X$
 4. Decompose $R$ into $R_1$ and $R_{2}$, where
 	1. $R_1$ has attributes $X \cup Y$
-	2. 
+	2. $R_2$ has attributes $X\cup Z$, where Z contains all attributes of R that are in neither X nor Y (i.e. $Z - attr(R)- X -Y$)
