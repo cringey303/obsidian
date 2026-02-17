@@ -179,12 +179,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 447/Normalization.md",
+                "file": "EECS 447/!EECS 447 Intro to Database Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalization"
+              "title": "!EECS 447 Intro to Database Systems"
             }
           },
           {
@@ -366,13 +366,13 @@
   },
   "active": "7e3d73081f8a7d60",
   "lastOpenFiles": [
-    "Screenshot 2026-02-17 at 13.09.33.png",
-    "Screenshot 2026-02-17 at 13.07.38.png",
+    "Screenshots/Screenshot 2026-02-17 at 13.07.38.png",
+    "EECS 447/!EECS 447 Intro to Database Systems.md",
+    "EECS 447/Normalization.md",
+    "Screenshots/Screenshot 2026-02-17 at 13.09.33.png",
     "EECS 447/Weak Entity Sets.md",
     "EECS 447/Subclasses.md",
-    "EECS 447/!EECS 447 Intro to Database Systems.md",
     "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
-    "EECS 447/Normalization.md",
     "EECS 510/Deterministic Finite Automata.md",
     "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/Non-deterministic Finite Automata.md",
@@ -393,7 +393,6 @@
     "Screenshots/Screenshot 2026-02-13 at 10.40.33.png",
     "Screenshots/Screenshot 2026-02-13 at 10.40.14.png",
     "Screenshots/Screenshot 2026-02-13 at 10.32.57.png",
-    "Screenshots/Screenshot 2026-02-13 at 10.31.45.png",
     "EECS 465/Metasploit.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "HTB/Structure of InfoSec.md",
