@@ -87,4 +87,3 @@ Functional dependencies:
 
 
 ![[Screenshot 2026-02-17 at 13.07.38.png|550]]
-
