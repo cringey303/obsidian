@@ -80,4 +80,6 @@ Functional dependencies:
 1. Identify candidate keys
 2. Find a BCNF violation
 	- A non-trivial FD $X→Y$ in $R$ where $X$ is not a superkey of $R$
-3. “Grow” $Y$ to include all the attributes deter
+3. “Grow” $Y$ to include all the attributes determined by $X$
+4. Decompose $R$ into $R_1$ and $R_{2}$, where
+	1. $R_1$ has attributes $$
