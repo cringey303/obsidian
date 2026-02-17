@@ -6,5 +6,6 @@ $2^Q=\{A|A\leq\}$
 $\hat{\Delta}:Q\times \Sigma^* \to 2^Q$
 $\hat{\Delta}(A, \in)=A$
 
-$\hat{\Delta}(A, xa) = \bigcup \Delta(q,a)$
-$q\in \hat{\Delta(A,x)}$
+$$\hat{\Delta}(A, xa) = \bigcup_{q \in \hat{\Delta}(A, x)} \Delta(q, a)$$
+
+
