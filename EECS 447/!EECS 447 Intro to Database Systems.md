@@ -20,3 +20,12 @@ Professor: Bo Luo
 
 ---
 ### Exam 1
+- Thur, feb 26
+- 12:30-1:45pm
+- in person
+	- closed book, closed notes
+	- cheat sheet, 1 page double sided
+	- no electronics
+- topics
+	- basic concepts in DBMS: about 15% 
+	- conceptual design and ER: 
