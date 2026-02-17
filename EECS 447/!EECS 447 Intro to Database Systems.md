@@ -28,4 +28,10 @@ Professor: Bo Luo
 	- no electronics
 - topics
 	- basic concepts in DBMS: about 15% 
-	- conceptual design and ER: 
+	- conceptual design and ER: about 40%
+	- relational model, logical design and normalization: about 45%
+- **10% will be adopted from quizzes**
+- Sample test is online (shorter than real test)
+- format
+	- mc
+	- 
