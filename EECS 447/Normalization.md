@@ -75,3 +75,7 @@ Functional dependencies:
 	- 3NF: Yes
 	- BCNF: No
 		- because X is not a superkey
+
+### Decomposition to BCNF
+- Identify candidate keys
+- Find a BCNF vio
