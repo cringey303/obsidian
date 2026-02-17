@@ -77,5 +77,7 @@ Functional dependencies:
 		- because X is not a superkey
 
 ### Decomposition to BCNF
-- Identify candidate keys
-- Find a BCNF vio
+1. Identify candidate keys
+2. Find a BCNF violation
+	- A non-trivial FD $X→Y$ in $R$ where $X$ is not a superkey of $R$
+3. “Grow” $Y$ to include all the attributes deter
