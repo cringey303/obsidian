@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elementary Data Structures.md",
+                "file": "EECS 510/Non-deterministic Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementary Data Structures"
+              "title": "Non-deterministic Finite Automata"
             }
           },
           {
@@ -352,14 +352,15 @@
   },
   "active": "70d0b67e6894e49e",
   "lastOpenFiles": [
+    "EECS 510/!EECS 510 Theory of Computing.md",
+    "Screenshots/Screenshot 2026-02-16 at 12.06.13.png",
+    "EECS 330/Elementary Data Structures.md",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 468/Handling Events in JavaScript.md",
-    "Screenshot 2026-02-16 at 12.06.13.png",
-    "Screenshot 2026-02-16 at 11.59.45.png",
+    "Screenshots/Screenshot 2026-02-16 at 11.59.45.png",
     "EECS 468/!EECS 468 Programming Paradigms.md",
-    "Elementary Data Structures.md",
     "EECS 468/JavaScript and the DOM.md",
-    "Screenshot 2026-02-13 at 11.24.15.png",
+    "Screenshots/Screenshot 2026-02-13 at 11.24.15.png",
     "Excalidraw/JS and the DOM 2.md",
     "Excalidraw/JS and the Dom.md",
     "Screenshots/Screenshot 2026-02-13 at 11.14.02.png",
@@ -378,7 +379,6 @@
     "HTB",
     "Excalidraw/NFA.md",
     "EECS 510/Finite Automata.md",
-    "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 468/JavaScript Bugs and Errors.md",
     "EECS 465/HW1.md",
     "EECS 447/HW1.md",
