@@ -188,6 +188,18 @@
             }
           },
           {
+            "id": "d8ea97ed940b131d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "4dad7931ffddbd27",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -364,7 +376,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e3d73081f8a7d60",
+  "active": "d8ea97ed940b131d",
   "lastOpenFiles": [
     "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 465/Password Cracking.md",
