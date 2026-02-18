@@ -9,3 +9,4 @@
 [[JavaScript Bugs and Errors]]
 [[JavaScript and the DOM]]
 [[Handling Events in JavaScript]]
+[[JavaScript SVG & Canvas]]
