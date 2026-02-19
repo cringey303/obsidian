@@ -64,5 +64,7 @@ Based on operators:
 - Purpose: pairs rows from two tables
 - output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ (concatenation of $r$ and $s$)
 	- that is, pair each row in R with each row in S
-- note
+- note:
+	- The ordering of columns and rows is unimportant
+	- therefore cross product is commutative: i.e., $R\times S=S\times R$ for any 
 	- ![[Screenshot 2026-02-19 at 13.05.54.png|600]]
