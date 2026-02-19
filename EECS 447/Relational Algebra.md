@@ -1,0 +1,10 @@
+Based on operators:
+- core set of operators:
+	- selection
+	- projection
+	- cross product
+	- union
+	- difference
+	- renaming
+- additional, derived operators
+	- joion

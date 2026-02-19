@@ -13,6 +13,7 @@ Professor: Bo Luo
 [[Weak Entity Sets]]
 [[Logical Design]]
 [[Normalization]]
+[[Relational Algebra]]
 
 ---
 ### HW
