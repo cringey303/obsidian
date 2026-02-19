@@ -52,12 +52,13 @@ D = ($Q_{M},\Sigma,\delta_{M}, S_{M},F_{M}$) DFA
 $Q_{M}=2^{Q_{N}}$
 $\delta_{M}(A,a)=\Delta_{N}(A,a)$
 $S_{M}=S_{N}$
-$F_{M}=\{A\subseteq $
+$F_{M}=\{A\subseteq Q_{N}|A\cap F_{N}\}$
 
 Lemma 3
 $\hat{\delta}_{M}(A,x) = \hat{\Delta}(A,x)$ where $A \in Q_{N}$ $x \in \Sigma^*$
 
+
 **Theorem 4**: M and N accept the same set
 $$x \in \Sigma^*$$
 $$x \in L(M)$$
-$$=\hat{\delta}_{M}(S_{M},x)\in$$
+$$=\hat{\delta}_{M}(S_{M},x)\in F_{M}$$
