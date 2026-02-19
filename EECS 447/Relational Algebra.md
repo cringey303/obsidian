@@ -85,4 +85,5 @@ Based on operators:
 - input: two tables $R$ and $S$
 - notation: $R\bowtie S$
 - purpose: relate rows from two tables, and
-	- enforce equaili
+	- enforce equaility
+	- Eliminate e ee
