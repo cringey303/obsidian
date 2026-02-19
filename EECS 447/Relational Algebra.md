@@ -28,3 +28,7 @@ Based on operators:
 	- $p$ is called a selection condition/predicate
 - Purpose: filter rows according to some criteria
 - Output: same columns as $R$, but only rows of $R$, that satisfy $p$![[Screenshot 2026-02-19 at 12.56.17.png|550]]
+
+### Renaming
+- input: a table R
+- Notation: $\rho_{S}R,\rho_{(A_{1},A_{2},\dots)}$
