@@ -84,4 +84,5 @@ $L(\alpha+\beta) = L(\alpha)\cup L(\beta)$
 $L(\alpha \cap \beta) = L(\alpha) L(\beta)$
 - will match if both are matched
 	  $=\{yz | y \in L(\alpha)\text{ and }z\in L(\beta)$
-$L(\notalpha)$
+$L(\~ \alpha)=\~L(\alpha)$
+	 $= \Sigma^* - L(\alpha)$
