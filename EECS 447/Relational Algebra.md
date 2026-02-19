@@ -11,4 +11,5 @@ Based on operators:
 	- natural join
 	- intersection
 	- etc
-- Co
+- Compose operators to make complex queries![[Screenshot 2026-02-19 at 12.47.35.png|550]]
+- 
