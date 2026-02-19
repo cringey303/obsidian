@@ -85,5 +85,7 @@ Based on operators:
 - input: two tables $R$ and $S$
 - notation: $R\bowtie S$
 - purpose: relate rows from two tables, and
-	- enforce equaility
-	- Eliminate e ee
+	- enforce equality
+	- Eliminate one copy from all common attributes
+- shorthand for $\pi_{L}(R\bowtie_{P}S)$
+	- $p$ eq
