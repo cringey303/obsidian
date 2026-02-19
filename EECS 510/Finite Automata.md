@@ -43,4 +43,6 @@ solution:
 Lemma 1
 $$\hat{\Delta}(A,xy)=\hat{\Delta}(\hat{\Delta}(A,x),y)$$
 Lemma 2
-$$\hat{\Delta}(\bigcup_{i})$$
+$$\hat{\Delta}(\bigcup_{i}A_{i}, x) = \bigcup_{i}\hat{\Delta}(A_{i},x)$$
+---
+N = ($Q_{N},\Sigma,\Delta_{N}$)
