@@ -69,5 +69,5 @@ Based on operators:
 	- therefore cross product is commutative: i.e., $R\times S=S\times R$ for any $R$ and $S$
 - column naming
 	- if each of R and S has an attribute A, $R\times S$ will have two attributes with the same name: not allowed in relational algebra
-	- usually denoted as $R.A$ and $S.A$
-	- ![[Screenshot 2026-02-19 at 13.05.54.png|600]]
+	- usually denoted as $R.A$ and $S.A$ (e.g. `student.sid` and `enroll.sid`)![[Screenshot 2026-02-19 at 13.05.54.png|600]]
+	- 
