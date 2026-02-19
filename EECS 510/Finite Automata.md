@@ -89,4 +89,5 @@ $L(\sim\alpha)=L(\sim\alpha)$
 $L(\alpha^*)=\{x_{0},x_{1},\dots,x_{n}|n\geq_{0},x_{i}\in L(\alpha)\}$
      $=L(\alpha)^\circ \cup L(\alpha)' \cup L(\alpha)^2$
      $\dots L(\alpha)^n \dots$
- $L(\alpha^+) = \{x,$
+ $L(\alpha^+) = \{x,x_{2},\dots,x_{n}|n\geq_{1}, x_{i} \in L(\alpha)\}$
+	 $=$
