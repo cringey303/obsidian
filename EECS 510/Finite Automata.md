@@ -79,4 +79,6 @@ $L(@)=\Sigma^*$
 - `@` is equivalent to `*` in regex
 
 $L(\alpha),L(\beta)$
-$L(\alpha+\beta)$
+$L(\alpha+\beta) = L(\alpha)\cup L(\beta)$
+- will match L(a+b) if either a or b is matched
+$L(\alpha+\beta) = L(\alpha)\cup L(\beta)$
