@@ -86,4 +86,4 @@ $L(\alpha \cap \beta) = L(\alpha) L(\beta)$
 	  $=\{yz | y \in L(\alpha)\text{ and }z\in L(\beta)$
 $L(\sim\alpha)=L(\sim\alpha)$
 	 $= \Sigma^* - L(\alpha)$
-	
+$L(\alpha^*)=\$
