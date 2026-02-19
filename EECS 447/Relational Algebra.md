@@ -13,6 +13,7 @@ Based on operators:
 	- etc
 - Compose operators to make complex queries![[Screenshot 2026-02-19 at 12.47.35.png|550]]
 
+## Single-table operations
 ### Projection
 - input: a table R
 - notation: $\pi_{L}R$
@@ -37,3 +38,8 @@ Based on operators:
 - Used to 
 	- avoid confusion caused by identical column names
 	- create identical columns names for natural joins![[Screenshot 2026-02-19 at 13.00.23.png|550]]
+
+## Many tables operations
+### Union
+- Input: two tables R and S
+- Notation: 
