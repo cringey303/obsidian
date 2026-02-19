@@ -193,12 +193,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 468/JavaScript SVG & Canvas.md",
+                "file": "EECS 510/Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript SVG & Canvas"
+              "title": "Finite Automata"
             }
           },
           {
@@ -378,11 +378,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "d8ea97ed940b131d",
   "lastOpenFiles": [
+    "EECS 510/!EECS 510 Theory of Computing.md",
+    "EECS 468/JavaScript SVG & Canvas.md",
     "Screenshot 2026-02-18 at 11.16.29.png",
     "EECS 468/!EECS 468 Programming Paradigms.md",
-    "EECS 468/JavaScript SVG & Canvas.md",
     "EECS 465/!EECS 465 Cyber Defense.md",
     "EECS 465/Password Cracking.md",
     "EECS 465/Vulnerability Assessment Tools (VAS).md",
@@ -394,7 +395,6 @@
     "EECS 447/Subclasses.md",
     "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
     "EECS 510/Deterministic Finite Automata.md",
-    "EECS 510/!EECS 510 Theory of Computing.md",
     "EECS 510/Non-deterministic Finite Automata.md",
     "Screenshots/Screenshot 2026-02-16 at 12.06.13.png",
     "EECS 330/Elementary Data Structures.md",
@@ -411,7 +411,6 @@
     "EECS 330/Priority Queues.md",
     "Screenshots/Screenshot 2026-02-13 at 10.40.33.png",
     "Screenshots/Screenshot 2026-02-13 at 10.40.14.png",
-    "Screenshots/Screenshot 2026-02-13 at 10.32.57.png",
     "EECS 465/Metasploit.md",
     "HTB/Structure of InfoSec.md",
     "HTB/Junior Cybersecurity Analyst.md",

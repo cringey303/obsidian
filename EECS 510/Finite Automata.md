@@ -36,3 +36,5 @@ solution:
 	- etc
 - these mods fit every number of chars
 	- any multiple of 3 will fit state 0, the "final" state
+
+[[Dete]]
