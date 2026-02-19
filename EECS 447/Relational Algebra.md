@@ -83,4 +83,4 @@ Based on operators:
 
 ### Natural Join
 - input: two tables $R$ and $S$
-- notation: 
+- notation: $R\bowtie S$
