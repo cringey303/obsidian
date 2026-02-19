@@ -60,7 +60,9 @@ Based on operators:
 
 ### Cross product
 - Input: R and S
-- notation: $R  S$
+- notation: $R\times S$
 - Purpose: pairs rows from two tables
 - output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ (concatenation of $r$ and $s$)
-	- that is, pair each row in R with each row in S![[Screenshot 2026-02-19 at 13.05.54.png|600]]
+	- that is, pair each row in R with each row in S
+- note
+	- ![[Screenshot 2026-02-19 at 13.05.54.png|600]]
