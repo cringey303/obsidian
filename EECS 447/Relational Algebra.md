@@ -33,4 +33,7 @@ Based on operators:
 - input: a table R
 - Notation: $\rho_{S}R,\rho_{(A_{1},A_{2},\dots)}R\text{ or } \rho_{S(A_{1},A_{2},\dots)}R$
 - Purpose: rename a table and/or its columns
-- Output: renamed a 
+- Output: a renamed a table with the same rows as $R$
+- Used to 
+	- avoid confusion caused by identical column names
+	- create identical columns names for natural joins![[Screenshot 2026-02-19 at 13.00.23.png|550]]
