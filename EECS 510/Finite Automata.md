@@ -77,4 +77,6 @@ $L(\#)=\Sigma$
 - \# is equivalent to ? in regex
 $L(@)=\Sigma^*$
 - `@` is equivalent to `*` in regex
-- 
+
+$L(\alpha),L(\beta)$
+$L(\alpha+\beta)$
