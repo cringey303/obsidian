@@ -70,4 +70,8 @@ Based on operators:
 - column naming
 	- if each of R and S has an attribute A, $R\times S$ will have two attributes with the same name: not allowed in relational algebra
 	- usually denoted as $R.A$ and $S.A$ (e.g. `student.sid` and `enroll.sid`)![[Screenshot 2026-02-19 at 13.05.54.png|600]]
-	- 
+
+### Theta-join
+- input: two tables $R$ and $S$
+- purpose: relate rows from two tables according to some criteria
+- output: for each row $r$ in $R$ and each ro
