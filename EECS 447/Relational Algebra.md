@@ -61,4 +61,6 @@ Based on operators:
 ### Cross product
 - Input: R and S
 - notation: $R  S$
-- Purple
+- Purpose: pairs rows from two tables
+- output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ (concatenation of $r$ and $s$)
+	- that is, pair each row in 
