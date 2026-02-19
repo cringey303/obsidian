@@ -41,4 +41,6 @@ solution:
 [[Non-deterministic Finite Automata]]
 
 Lemma 1
-$$\hat{\}$$
+$$\hat{\Delta}(A,xy)=\hat{\Delta}(\hat{\Delta}(A,x),y)$$
+Lemma 2
+$$\hat{\Delta}(\bigcup_{i})$$
