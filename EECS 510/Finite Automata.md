@@ -45,12 +45,13 @@ Lemma 1
 $$\hat{\Delta}(A,xy)=\hat{\Delta}(\hat{\Delta}(A,x),y)$$
 Lemma 2
 $$\hat{\Delta}(\bigcup_{i}A_{i}, x) = \bigcup_{i}\hat{\Delta}(A_{i},x)$$
-
-Lemma 3
-$\hat{\delta}_{M}(A,x = \hat{\Delta}(A,x)$ where $A \in Q_{N}$ $x \in \Sigma^*$
-
 ---
 N = ($Q_{N},\Sigma,\Delta_{N}, S_{N}, F_{N}$) NFA
 D = ($Q_{M},\Sigma,\delta_{M}, S_{M},F_{M}$) DFA
 
-$Q_{M}=2^{Q_{N}},\delta_{M}(A,a)=\Delta_{N}(A,a)$
+$Q_{M}=2^{Q_{N}}$
+$\delta_{M}(A,a)=\Delta_{N}(A,a)$
+
+
+Lemma 3
+$\hat{\delta}_{M}(A,x = \hat{\Delta}(A,x)$ where $A \in Q_{N}$ $x \in \Sigma^*$
