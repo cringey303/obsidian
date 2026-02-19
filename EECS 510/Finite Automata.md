@@ -67,3 +67,6 @@ $$=L(N)$$
 ---
 $\in$ - Transitions
 p  $\in$→ q (takes no tokens to jump from p to q)
+
+---
+$L(\alpha)=$
