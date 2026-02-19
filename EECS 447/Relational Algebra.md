@@ -15,4 +15,7 @@ Based on operators:
 
 Projection
 - input: a table R
-- notation: $\pi_{L}$
+- notation: $\pi_{L}R$
+	- L is a list of columns in R
+- Purpose: select columns to output
+- Output: same rows, but only the 
