@@ -80,4 +80,7 @@ Based on operators:
 - Notation: $R \bowtie_{p} S$
 	- $p$ is called a join condition/predicate
 - shorthand for $\sigma(R\times S)$![[Screenshot 2026-02-19 at 13.15.16.png|600]]
-- 
+
+### Natural Join
+- input: two tables $R$ and $S$
+- notation: 
