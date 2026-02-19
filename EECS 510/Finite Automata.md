@@ -40,12 +40,17 @@ solution:
 [[Deterministic Finite Automata]]
 [[Non-deterministic Finite Automata]]
 
+---
 Lemma 1
 $$\hat{\Delta}(A,xy)=\hat{\Delta}(\hat{\Delta}(A,x),y)$$
 Lemma 2
 $$\hat{\Delta}(\bigcup_{i}A_{i}, x) = \bigcup_{i}\hat{\Delta}(A_{i},x)$$
+
+Lemma 3
+$$$$
+
 ---
 N = ($Q_{N},\Sigma,\Delta_{N}, S_{N}, F_{N}$) NFA
 D = ($Q_{M},\Sigma,\delta_{M}, S_{M},F_{M}$) DFA
 
-$Q_{M}=2^{Q_{N}},\delta
+$Q_{M}=2^{Q_{N}},\delta_{M}(A,a)=\Delta_{N}(A,a)$
