@@ -26,4 +26,5 @@ Based on operators:
 - input: a table R
 - Notation: $\sigma_{p}R$
 	- $p$ is called a selection condition/predicate
-- Purpose: filter r
+- Purpose: filter rows according to some criteria
+- Output: same columns as $R$, but only rows of $R$, that satisfy $p$![[Screenshot 2026-02-19 at 12.56.17.png|550]]
