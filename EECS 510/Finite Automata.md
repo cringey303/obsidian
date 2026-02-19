@@ -45,4 +45,5 @@ $$\hat{\Delta}(A,xy)=\hat{\Delta}(\hat{\Delta}(A,x),y)$$
 Lemma 2
 $$\hat{\Delta}(\bigcup_{i}A_{i}, x) = \bigcup_{i}\hat{\Delta}(A_{i},x)$$
 ---
-N = ($Q_{N},\Sigma,\Delta_{N}$)
+N = ($Q_{N},\Sigma,\Delta_{N}, S_{N}, F_{N}$) NFA
+D = ($Q_{M},\Sigma,\delta_{M},$)
