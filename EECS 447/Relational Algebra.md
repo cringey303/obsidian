@@ -88,4 +88,8 @@ Based on operators:
 	- enforce equality
 	- Eliminate one copy from all common attributes
 - shorthand for $\pi_{L}(R\bowtie_{P}S)$
-	- $p$ eq
+	- $p$ equates all attributes to common $R$ and $S$
+	- $L$ is the union of all attributes form $R$ and $S$, with duplicate attributes removed
+
+# Summary of operators
+![[Screenshot 2026-02-19 at 13.21.53.png]]
