@@ -94,3 +94,9 @@ Based on operators:
 # Summary of operators (core and derived)
 ![[Screenshot 2026-02-19 at 13.21.53.png|400]]![[Screenshot 2026-02-19 at 13.22.20.png|300]]
 
+## Bags
+- a bag (or multiset) is like a set, but an element may appear more than once
+- example: {1,2,1,3} is a bag
+- example: {1,2,3} is also a bag that happens to be a set
+- SQL is a bag language
+- 
