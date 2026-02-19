@@ -7,4 +7,8 @@ Based on operators:
 	- difference
 	- renaming
 - additional, derived operators
-	- joion
+	- join
+	- natural join
+	- intersection
+	- etc
+- Co
