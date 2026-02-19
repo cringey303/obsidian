@@ -271,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "50318f50444395ed",
@@ -378,7 +379,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25b2393ca9ce50e9",
+  "active": "d8ea97ed940b131d",
   "lastOpenFiles": [
     "Screenshots/Screenshot 2026-02-19 at 12.47.35.png",
     "EECS 447/!EECS 447 Intro to Database Systems.md",

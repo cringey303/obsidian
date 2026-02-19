@@ -18,4 +18,5 @@ Projection
 - notation: $\pi_{L}R$
 	- L is a list of columns in R
 - Purpose: select columns to output
-- Output: same rows, but only the 
+- Output: same rows, but only the columns in L
+	- number of rows may be less (depends on where we have duplicates or not)
