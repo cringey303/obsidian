@@ -37,4 +37,8 @@ solution:
 - these mods fit every number of chars
 	- any multiple of 3 will fit state 0, the "final" state
 
-[[Dete]]
+[[Deterministic Finite Automata]]
+[[Non-deterministic Finite Automata]]
+
+Lemma 1
+$$\hat{\}$$
