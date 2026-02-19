@@ -74,4 +74,6 @@ Based on operators:
 ### Theta-join
 - input: two tables $R$ and $S$
 - purpose: relate rows from two tables according to some criteria
-- output: for each row $r$ in $R$ and each ro
+- output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ if $r$ and $s$ satisfy $p$
+	- take the product $R\times S$
+	- then apply selection ($\omega$)
