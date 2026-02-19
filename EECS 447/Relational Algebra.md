@@ -56,4 +56,9 @@ Based on operators:
 	- same schema as R and S
 	- contains all rows in R that are not found in S
 
-### 
+### Intersection
+
+### Cross product
+- Input: R and S
+- notation: $R  S$
+- Purple
