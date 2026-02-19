@@ -93,3 +93,4 @@ Based on operators:
 
 # Summary of operators (core and derived)
 ![[Screenshot 2026-02-19 at 13.21.53.png|400]]![[Screenshot 2026-02-19 at 13.22.20.png|300]]
+
