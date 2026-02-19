@@ -24,4 +24,6 @@ Based on operators:
 
 ### Selection
 - input: a table R
-- Notation:
+- Notation: $\sigma_{p}R$
+	- $p$ is called a selection condition/predicate
+- Purpose: filter r
