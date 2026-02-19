@@ -64,4 +64,5 @@ $$x \in L(M)$$
 $$=\hat{\delta}_{M}(S_{M},x)\in F_{M}$$
 $$=\hat{\Delta}_{N}(S_{M},x)\cap F_{N}\neq \varnothing$$
 $$=L(N)$$
-
+---
+$$
