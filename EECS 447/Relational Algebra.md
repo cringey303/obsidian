@@ -66,5 +66,8 @@ Based on operators:
 	- that is, pair each row in R with each row in S
 - note:
 	- The ordering of columns and rows is unimportant
-	- therefore cross product is commutative: i.e., $R\times S=S\times R$ for any 
+	- therefore cross product is commutative: i.e., $R\times S=S\times R$ for any $R$ and $S$
+- column naming
+	- if each of R and S has an attribute A, $R\times S$ will have two attributes with the same name: not allowed in relational algebra
+	- usually denoted as $R.A$ and $S.A$
 	- ![[Screenshot 2026-02-19 at 13.05.54.png|600]]
