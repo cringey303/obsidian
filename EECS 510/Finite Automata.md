@@ -69,4 +69,5 @@ $\in$ - Transitions
 p  $\in$→ q (takes no tokens to jump from p to q)
 
 ---
-$L(\alpha)=$
+$L(\alpha)=\{x \in \Sigma^* | x\text{ matches }\alpha\}$
+$L(a)=\{x \in \Sigma^* | x\text{ matches }\alpha\}$
