@@ -77,4 +77,6 @@ Based on operators:
 - output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ if $r$ and $s$ satisfy $p$
 	- take the product $R\times S$
 	- then apply selection ($\sigma_{p}$) to the result
-- Notation: 
+- Notation: $R \Join_{p} S$
+	- $p$ is called a join condition/predicate
+- shorthand for $\sigma(R\times S)$
