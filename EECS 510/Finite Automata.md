@@ -58,4 +58,6 @@ Lemma 3
 $\hat{\delta}_{M}(A,x) = \hat{\Delta}(A,x)$ where $A \in Q_{N}$ $x \in \Sigma^*$
 
 **Theorem 4**: M and N accept the same set
-$$x \in \Sigma$$
+$$x \in \Sigma^*$$
+$$x \in L(M)$$
+$$=\hat{\delta}_{M}(S_{M},x)\in$$
