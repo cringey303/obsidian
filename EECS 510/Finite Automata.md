@@ -76,4 +76,5 @@ $L(\emptyset)=\{\emptyset\}$
 $L(\#)=\Sigma$
 - \# is equivalent to ? in regex
 $L(@)=\Sigma^*$
-- @ is equivalent to
+- `@` is equivalent to `*` in regex
+- 
