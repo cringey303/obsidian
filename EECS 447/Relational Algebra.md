@@ -76,4 +76,5 @@ Based on operators:
 - purpose: relate rows from two tables according to some criteria
 - output: for each row $r$ in $R$ and each row $s$ in $S$, output a row $rs$ if $r$ and $s$ satisfy $p$
 	- take the product $R\times S$
-	- then apply selection ($\omega$)
+	- then apply selection ($\sigma_{p}$) to the result
+- Notation: 
