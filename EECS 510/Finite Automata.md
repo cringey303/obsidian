@@ -65,4 +65,5 @@ $$=\hat{\delta}_{M}(S_{M},x)\in F_{M}$$
 $$=\hat{\Delta}_{N}(S_{M},x)\cap F_{N}\neq \varnothing$$
 $$=L(N)$$
 ---
-$$
+$\in$ - Transitions
+p  $\in$→ q (takes no tokens to jump from p to q)
