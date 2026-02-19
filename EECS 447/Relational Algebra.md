@@ -98,5 +98,8 @@ Based on operators:
 - a bag (or multiset) is like a set, but an element may appear more than once
 - example: {1,2,1,3} is a bag
 - example: {1,2,3} is also a bag that happens to be a set
-- SQL is a bag language
+- Why bags?
+	- SQL is a bag language
+	- some operations, like projection, are more efficient on bags than sets.
+		- no need to remove duplicates
 - 
