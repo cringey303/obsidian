@@ -42,4 +42,8 @@ Based on operators:
 ## Many tables operations
 ### Union
 - Input: two tables R and S
-- Notation: 
+- Notation: $R\cup S$
+	- R and S must have identical schema
+- Output:
+	- has the same schema as R and S
+	- contains all rows in R and all rows in S, with duplicate rows eliminated
