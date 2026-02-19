@@ -31,4 +31,6 @@ Based on operators:
 
 ### Renaming
 - input: a table R
-- Notation: $\rho_{S}R,\rho_{(A_{1},A_{2},\dots)}$
+- Notation: $\rho_{S}R,\rho_{(A_{1},A_{2},\dots)}R\text{ or } \rho_{S(A_{1},A_{2},\dots)}R$
+- Purpose: rename a table and/or its columns
+- Output: renamed a 
