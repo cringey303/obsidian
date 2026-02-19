@@ -47,3 +47,13 @@ Based on operators:
 - Output:
 	- has the same schema as R and S
 	- contains all rows in R and all rows in S, with duplicate rows eliminated
+
+### Difference
+- Input: R and S
+- Notation: $R-S$
+	- R and S must have identical schema
+- Output:
+	- same schema as R and S
+	- contains all rows in R that are not found in S
+
+### 
