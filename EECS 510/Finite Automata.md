@@ -47,7 +47,7 @@ Lemma 2
 $$\hat{\Delta}(\bigcup_{i}A_{i}, x) = \bigcup_{i}\hat{\Delta}(A_{i},x)$$
 
 Lemma 3
-$\hat{\delta}_{M}(A,x = \hat{\Delta}(A,x))$
+$\hat{\delta}_{M}(A,x = \hat{\Delta}(A,x)$ where $A \in Q_{N}$ $x \in \Sigma^*$$
 
 ---
 N = ($Q_{N},\Sigma,\Delta_{N}, S_{N}, F_{N}$) NFA
