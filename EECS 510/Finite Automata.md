@@ -73,3 +73,4 @@ $L(\alpha)=\{x \in \Sigma^* | x\text{ matches }\alpha\}$
 $L(a)=\{a\}, a \in \Sigma$
 $L(\epsilon)=\{\epsilon\}$
 $L(\emptyset)=\{\emptyset\}$
+$L(\#)=\
