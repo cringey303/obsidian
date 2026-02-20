@@ -87,12 +87,9 @@ nothing to decompose
 FDs: 
 - AB→C
 - DE→C
-- B-
+- B→D
 Candidate key:
-- {A,B}
-- {B,C}
-- {A,D}
-- {C,D}
+- {A,B,E}
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - none
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
