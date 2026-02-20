@@ -15,6 +15,7 @@ Candidate keys:
 - D→A
 - C→A
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
+using C→D
 - 
 ### b.
 FDs: 
@@ -29,4 +30,6 @@ Candidate key:
 $R_1$ contains all attributes in violation
 $R_{2}$ contains B (left-hand side) and everything else (only A is left)
 **$R_{1}(B,C,D),R_{2}(A,B)$
+
+
 # R(A,B,C,D,E)
