@@ -18,6 +18,7 @@ Professor: Bo Luo
 ---
 ### HW
 [[EECS 447/HW1]]
+[[EECS 447/HW2]]
 
 ---
 ### Exam 1
