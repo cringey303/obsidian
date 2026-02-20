@@ -18,6 +18,9 @@ Candidate keys:
 using C→D
 - $R_{1}(C,D)$
 - $R_{2}(C,A,B)$
+	- AB→C
+	- C→A (violation)
+		- $$
 ### b.
 FDs: 
 - B→C
