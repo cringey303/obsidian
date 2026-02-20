@@ -72,6 +72,23 @@ FDs:
 - C→A
 - C→B
 Candidate key:
+- A
+- B
+- C
+- D
+<span style="color:rgb(240, 76, 164)">BCNF violations:</span>
+- none
+<span style="color:rgb(240, 76, 164)">Decompose:</span>
+nothing to decompose
+
+
+# R(A,B,C,D,E)
+### e.
+FDs: 
+- AB→C
+- DE→C
+- B-
+Candidate key:
 - {A,B}
 - {B,C}
 - {A,D}
@@ -80,6 +97,3 @@ Candidate key:
 - none
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 nothing to decompose
-
-
-# R(A,B,C,D,E)
