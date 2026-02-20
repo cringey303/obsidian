@@ -48,7 +48,7 @@ FDs:
 - BC→D
 - CD→A
 - AD→B
-- AB-
+- AB→D
 Candidate key:
 - {A,B}
 - {B,C}
