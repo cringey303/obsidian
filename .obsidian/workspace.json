@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "50318f50444395ed",
@@ -261,7 +260,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5f560b6e82c4ed5",
+  "active": "83f1bb6ac73a1060",
   "lastOpenFiles": [
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "EECS 447/HW2.md",
