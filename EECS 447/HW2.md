@@ -65,7 +65,12 @@ FDs:
 - B→C
 - C→D
 - D→A
-- 
+- A→C
+- A→D
+- B→A
+- B→D
+- C→A
+- C→B
 Candidate key:
 - {A,B}
 - {B,C}
