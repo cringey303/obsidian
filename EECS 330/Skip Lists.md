@@ -1,5 +1,3 @@
-# EECS 330: Skip Lists
-
 ## Overview
 * Skip lists are randomized data structures built upon sorted linked lists[cite: 7].
 * They achieve the search efficiency of sorted arrays[cite: 7].
