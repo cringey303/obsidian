@@ -13,7 +13,7 @@ Candidate keys:
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - C→D
 - D→A
-- C→
+- C→A
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 - 
 ### b.
