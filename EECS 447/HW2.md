@@ -9,5 +9,6 @@ Candidate key:
 - B→C
 - B→D
 <span style="color:rgb(240, 76, 164)">Decompose</span><span style="color:rgb(240, 76, 164)">:</span>
-$R
+$R_1$ contains all attributes in violation
+$R_{2}$ contains B (left-hand side) and everything else (only A is left)
 $R_{1}(B,C,D),R_{2}(A,B)$
