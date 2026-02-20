@@ -91,6 +91,9 @@ FDs:
 Candidate key:
 - {A,B,E}
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
-- none
+- AB→C
+- DE→C
+- B→D
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
-nothing to decompose
+start with B→D
+$R_{1}$
