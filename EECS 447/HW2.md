@@ -9,3 +9,5 @@ Candidate key:
 - B→C
 - B→D
 <span style="color:rgb(240, 76, 164)">Decompose</span><span style="color:rgb(240, 76, 164)">:</span>
+$R
+$R_{1}(B,C,D),R_{2}(A,B)$
