@@ -6,4 +6,5 @@ FDs:
 Candidate key:
 - {A,B}
 BCNF violations:
-- 
+- B→C ()
+- B→D
