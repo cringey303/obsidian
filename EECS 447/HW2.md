@@ -16,7 +16,8 @@ Candidate keys:
 - C→A
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 using C→D
-- 
+- $R_{1}(C,D)$
+- $R_{2}(C,A,B)$
 ### b.
 FDs: 
 - B→C
