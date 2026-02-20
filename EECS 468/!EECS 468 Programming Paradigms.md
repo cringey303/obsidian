@@ -10,3 +10,4 @@
 [[JavaScript and the DOM]]
 [[Handling Events in JavaScript]]
 [[JavaScript SVG & Canvas]]
+[[More on JavaScript Canvas]]
