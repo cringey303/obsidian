@@ -99,3 +99,5 @@ start with B→D
 $R_{1}(B,D)$
 $R_{rest}(B,A,C,E)$
 - has AB→C
+- $R_{2}(A,B,C)$
+- $R_{3}(A,B,D,E)$
