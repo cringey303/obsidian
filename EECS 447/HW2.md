@@ -96,4 +96,6 @@ Candidate key:
 - B→D
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 start with B→D
-$R_{1}$
+$R_{1}(B,D)$
+$R_{rest}(B,A,C,E)$
+- has AB→C
