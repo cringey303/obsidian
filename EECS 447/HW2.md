@@ -6,7 +6,8 @@ FDs:
 - C → D
 - D → A
 Candidate keys:
--  
+-  {A,B}
+- 
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - 
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
