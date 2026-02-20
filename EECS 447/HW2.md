@@ -27,6 +27,7 @@ so:
 - $R_{1}(C,D)$
 - $R_{2}(A,C)$
 - $R_{3}(C,B)$
+
 ### b.
 FDs: 
 - B→C
@@ -41,12 +42,15 @@ $R_1$ contains all attributes in violation
 $R_{2}$ contains B (left-hand side) and everything else (only A is left)
 **$R_{1}(B,C,D),R_{2}(A,B)$
 
-### b.
+### c.
 FDs: 
-- B→C
-- B→D
+- AB→C
+- BC→D
+- CD→A
+- AD→B
 Candidate key:
 - {A,B}
+- 
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - B→C
 - B→D
