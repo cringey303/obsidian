@@ -3,5 +3,6 @@ Exercise 3.3.1 (b)-(e) (Textbook Page 92)
 FDs: 
 - B→C
 - B→D
+
 BCNF violations:
 - 
