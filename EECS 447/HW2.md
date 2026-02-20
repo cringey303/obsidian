@@ -48,9 +48,12 @@ FDs:
 - BC→D
 - CD→A
 - AD→B
+- AB-
 Candidate key:
 - {A,B}
-- {}
+- {B,C}
+- {A,D}
+- {C,D}
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - B→C
 - B→D
