@@ -50,7 +50,7 @@ FDs:
 - AD→B
 Candidate key:
 - {A,B}
-- 
+- {}
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - B→C
 - B→D
