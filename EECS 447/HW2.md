@@ -2,7 +2,9 @@ Exercise 3.3.1 (b)-(e) (Textbook Page 92)
 # R(A,B,C,D)
 ### a. 
 FDs:
-- 
+- AB → C
+- C → D
+- D → A
 Candidate keys:
 -  
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
