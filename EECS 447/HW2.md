@@ -5,6 +5,7 @@ FDs:
 - AB → C
 - C → D
 - D → A
+- C → A
 Candidate keys:
 -  {A,B}
 - 
