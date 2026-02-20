@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+                "file": "EECS 330/Skip Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!EECS 330 Data Structures and Algorithms"
+              "title": "Skip Lists"
             }
           }
         ],
@@ -351,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+                "file": "EECS 330/Skip Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !EECS 330 Data Structures and Algorithms"
+              "title": "Outline of Skip Lists"
             }
           }
         ],
@@ -383,6 +383,8 @@
   },
   "active": "4dad7931ffddbd27",
   "lastOpenFiles": [
+    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+    "EECS 330/Skip Lists.md",
     "Excalidraw/JS and the DOM 2.md",
     "conflict-files-obsidian-git.md",
     "EECS 447/Relational Algebra.md",
@@ -419,8 +421,6 @@
     "EECS 447/Subclasses.md",
     "Excalidraw/Drawing 2026-02-17 13.06.25.excalidraw.md",
     "EECS 330/Elementary Data Structures.md",
-    "EECS 330/!EECS 330 Data Structures and Algorithms.md",
-    "EECS 468/Handling Events in JavaScript.md",
     "HTB",
     "Untitled.canvas",
     "Screenshots",
