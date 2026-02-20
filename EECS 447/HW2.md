@@ -59,5 +59,22 @@ Candidate key:
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 nothing to decompose
 
+### d.
+FDs: 
+- A→B
+- B→C
+- C→D
+- D→A
+- 
+Candidate key:
+- {A,B}
+- {B,C}
+- {A,D}
+- {C,D}
+<span style="color:rgb(240, 76, 164)">BCNF violations:</span>
+- none
+<span style="color:rgb(240, 76, 164)">Decompose:</span>
+nothing to decompose
+
 
 # R(A,B,C,D,E)
