@@ -7,7 +7,7 @@ FDs:
 - D → A
 - C → A
 Candidate keys:
--  {A,B}
+- {A,B}
 - 
 <span style="color:rgb(240, 76, 164)">BCNF violations:</span>
 - 
