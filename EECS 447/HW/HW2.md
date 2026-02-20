@@ -59,5 +59,49 @@ Candidate key:
 <span style="color:rgb(240, 76, 164)">Decompose:</span>
 nothing to decompose
 
+### d.
+FDs: 
+- A→B
+- B→C
+- C→D
+- D→A
+- A→C
+- A→D
+- B→A
+- B→D
+- C→A
+- C→B
+Candidate key:
+- A
+- B
+- C
+- D
+<span style="color:rgb(240, 76, 164)">BCNF violations:</span>
+- none
+<span style="color:rgb(240, 76, 164)">Decompose:</span>
+nothing to decompose
+
 
 # R(A,B,C,D,E)
+### e.
+FDs: 
+- AB→C
+- DE→C
+- B→D
+Candidate key:
+- {A,B,E}
+<span style="color:rgb(240, 76, 164)">BCNF violations:</span>
+- AB→C
+- DE→C
+- B→D
+<span style="color:rgb(240, 76, 164)">Decompose:</span>
+start with B→D
+$R_{1}(B,D)$
+$R_{rest}(B,A,C,E)$
+- has AB→C
+- $R_{2}(A,B,C)$
+- $R_{3}(A,B,E)$
+so
+- $R_{1}(B,D)$
+- $R_{2}(A,B,C)$
+- $R_{3}(A,B,E)$

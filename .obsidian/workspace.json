@@ -212,9 +212,23 @@
               "icon": "excalidraw-icon",
               "title": "JS and the DOM 2"
             }
+          },
+          {
+            "id": "dbff653cb479c53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -350,12 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ],
@@ -363,8 +378,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,12 +393,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d8ea97ed940b131d",
+  "active": "7d02d626be0880a4",
   "lastOpenFiles": [
+    "Excalidraw/JS and the DOM 2.md",
+    "conflict-files-obsidian-git.md",
+    "EECS 447/Relational Algebra.md",
+    "EECS 465/HW/HW1.md",
+    "EECS 465/HW",
+    "EECS 447/HW/HW2.md",
+    "EECS 447/HW/HW1.md",
+    "EECS 447/HW",
     "EECS 447/HW2.md",
     "EECS 447/!EECS 447 Intro to Database Systems.md",
     "Screenshots/Screenshot 2026-02-19 at 12.56.17.png",
-    "EECS 447/Relational Algebra.md",
     "Screenshots/Screenshot 2026-02-19 at 13.22.20.png",
     "Screenshots/Screenshot 2026-02-19 at 13.21.53.png",
     "Screenshots/Screenshot 2026-02-19 at 13.15.16.png",
@@ -412,11 +433,6 @@
     "EECS 330/Elementary Data Structures.md",
     "EECS 330/!EECS 330 Data Structures and Algorithms.md",
     "EECS 468/Handling Events in JavaScript.md",
-    "EECS 468/JavaScript and the DOM.md",
-    "Excalidraw/JS and the DOM 2.md",
-    "Excalidraw/JS and the Dom.md",
-    "EECS 330/HeapSort.md",
-    "EECS 330/Priority Queues.md",
     "HTB",
     "Untitled.canvas",
     "Screenshots",
@@ -427,8 +443,6 @@
     "KU Crew/Sports Club Officer Mettings",
     "KU Crew",
     "EECS 465",
-    "Excalidraw",
-    "Ink/Drawing/2026.1.27 - 13.28pm.drawing",
-    "Ink/Drawing"
+    "Excalidraw"
   ]
 }
