@@ -13,7 +13,7 @@
 
 ---
 ### HW
-[[EECS 465/HW1|HW1]]
+[[EECS 465/HW/HW1|HW1]]
 [HW1 instructions](https://www.ittc.ku.edu/~alexbardas/eecs465/materials/assignments/hw1/hw1.html)
 - use UbuntuDesktop24
 - when saving a host image:
