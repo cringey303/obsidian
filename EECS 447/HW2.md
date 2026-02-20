@@ -18,9 +18,11 @@ Candidate keys:
 using C→D
 - $R_{1}(C,D)$
 - $R_{2}(C,A,B)$
+	- check for more violations with FDs
 	- AB→C
 	- C→A (violation)
-		- $$
+		- $R_{2}(A,C)$
+		- $R_{3}(C,B)$
 ### b.
 FDs: 
 - B→C
