@@ -205,12 +205,14 @@
             "id": "4dad7931ffddbd27",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/JS and the DOM 2.md"
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "JS and the DOM 2"
+              "icon": "lucide-file",
+              "title": "!EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -349,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EECS 330/!EECS 330 Data Structures and Algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of !EECS 330 Data Structures and Algorithms"
             }
           }
         ],
@@ -363,7 +365,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,7 +381,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d02d626be0880a4",
+  "active": "4dad7931ffddbd27",
   "lastOpenFiles": [
     "Excalidraw/JS and the DOM 2.md",
     "conflict-files-obsidian-git.md",
